@@ -1,0 +1,29 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+docket: "01-5003"
+decided: "2001-03-19"
+citations: ["6 F. App'x 4"]
+judges: ["Before HARRY T. EDWARDS, Chief Judge, STEPHEN F. WILLIAMS and RANDOLPH, Circuit Judges."]
+parties: ["Warren Derek HOLLINGER, Appellant v. FEDERAL TRADE COMMISSION, et al., Appellees"]
+source_url: "https://static.case.law/f-appx/6/cases/0004-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 155028
+---
+
+# Hollinger v. Federal Trade Commission
+
+## Head matter
+
+Warren Derek HOLLINGER, Appellant v. FEDERAL TRADE COMMISSION, et al., Appellees
+No. 01-5003.
+United States Court of Appeals, District of Columbia Circuit.
+March 19, 2001.
+Before HARRY T. EDWARDS, Chief Judge, STEPHEN F. WILLIAMS and RANDOLPH, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+JUDGMENT
+PER CURIAM.
+This appeal was considered on the record from the United States District Court for the District of Columbia and on the brief, and the supplement thereto, filed by the appellant. The court has determined that the issues presented occasion no need for an opinion. See Fed. R.App. P. 36; D.C.Cir. Rule 36(b). It is
+ORDERED AND ADJUDGED that the district court’s orders, filed August 7, 2000, and September 11, 2000, be affirmed substantially for the reasons stated by the district court in its decisions.
+The Clerk is directed to withhold issuance of the mandate herein until seven days after disposition of any timely petition for rehearing or petition for rehearing en banc. See Fed. R.App. P. 41(b); D.C.Cir. Rule 41.
