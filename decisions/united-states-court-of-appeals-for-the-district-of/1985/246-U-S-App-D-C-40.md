@@ -1,0 +1,36 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+docket: "84-5558"
+decided: "1985-05-31"
+citations: ["246 U.S. App. D.C. 40", "762 F.2d 134"]
+reporter: "us-app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Concurring opinion filed by Circuit Judge HARRY T. EDWARDS."]
+parties: ["Larry FLYNT, Publisher, et al., Appellants, v. Caspar W. WEINBERGER, individually and as Secretary of Defense, et al."]
+source_url: "https://static.case.law/us-app-dc/246/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3597578
+cites_cases: ["270 F.2d 419", "28 U.S.C. § 292", "340 U.S. 36", "362 U.S. 929", "4 L.Ed.2d 747", "416 U.S. 115", "423 U.S. 147", "445 U.S. 388", "455 U.S. 283", "455 U.S. 478", "588 F.Supp. 57", "690 F.2d 977", "80 S.Ct. 750", "95 L.Ed. 36"]
+---
+
+# Flynt v. Weinberger
+
+## Majority (PER CURIAM:)
+
+Opinion for the Court PER CURIAM.
+Concurring opinion filed by Circuit Judge HARRY T. EDWARDS.
+PER CURIAM:
+This suit, for injunctive and declaratory relief, challenges the decision of the United States to prohibit press coverage of the initial stages of the United States military intervention in Grenada which began on October 25, 1983. In their complaint, the appellants, Larry Flynt and Larry Flynt Publications, Inc., sought a declaratory judgment that “the course of conduct engaged in by the Defendants ... in preventing ... or otherwise hindering Plaintiffs’ efforts to send reporters to the sovereign nation of Grenada for the purpose of gathering news is in violation of the Constitution, laws, and treaties of the United States.” Complaint at 3. The complaint also requested “that the Defendants ... be restrained and enjoined from preventing or otherwise hindering Plaintiffs from sending reporters to the sovereign nation of Grenada to gather news and [be] direct[ed] ... to take such steps as may be necessary under the Constitution, laws and treaties of the United States and the law of the sovereign nation of Grenada for the purpose of gathering and transmitting the news.” Id. at 4. Appellants did not request monetary damages. The district court dismissed the complaint as moot. Flynt v. Weinberger, 588 F.Supp. 57 (D.D.C.1984).
+The question before this court is limited to whether appellants’ request for declaratory and injunctive relief relating exclusively to the press ban imposed at the outset of the Grenada invasion is now moot. Beginning on October 27, 1983, the absolute press ban was lifted. Consequently, a limited number of press representatives, including one of the appellants’ reporters, was transported by military aircraft to Grenada. On November 7, 1983, all restrictions on travel to Grenada were lifted and, since that date, members of the press have had unlimited access to the island. The military action that precipitated the temporary press ban was terminated by December 15, 1983.
+In light of these events, which succeeded the initiation of this suit, the appellants’ request for injunctive relief is clearly moot. See Super Tire Engineering Co. v. McCorkle, 416 U.S. 115, 121, 94 S.Ct. 1694, 1697, 40 L.Ed.2d 1 (1974). We find that the appellants’ request for declaratory relief is also moot. Because appellants’ complaint seeks a declaratory judgment solely with respect to the constitutionality of the press ban in Grenada, the issues raised by this complaint are no longer “live.” Murphy v. Hunt, 455 U.S. 478, 481, 102 S.Ct. 1181, 1183, 71 L.Ed.2d 353 (1982) (quoting United States Parole Comm’n v. Geraghty, 445 U.S. 388, 390, 100 S.Ct. 1202, 1205, 63 L.Ed.2d 479 (1980)). Further, this case does not fall within the exception to the mootness doctrine for those controversies “capable of repetition, yet evading review.” Weinstein v. Bradford, 423 U.S. 147, 149, 96 S.Ct. 347, 348, 46 L.Ed.2d 350 (1975). Although the controversy engendered by the short-term press ban in Grenada “did not last long enough for complete judicial review,” Super Tire, 416 U.S. at 126, 94 S.Ct. at 1700, there is no “reasonable expectation” that the Grenada controversy will recur. Weinstein, 423 U.S. at 149, 96 S.Ct. at 348; see Halkin v. Helms, 690 F.2d 977, 1006-09 (D.C.Cir.1982). Accordingly, we affirm the judgment of the district court that this case is no longer justiciable.
+We are concerned, however, that the district court, while purporting to dismiss the case for lack of jurisdiction, improperly considered and offered judgments on the underlying merits of the dispute. These judgments were given despite the fact that the parties were denied the opportunity to conduct discovery and no full trial on the merits was ever held. Furthermore, with no apparent justification, the district court dismissed the complaint with prejudice, thus precluding appellants from amending their complaint to avoid a dismissal for mootness.
+Where a controversy has become moot, it is the duty of the appellate court to clear the path for future relitigation of the issues raised. See United States v. Munsingwear, 340 U.S. 36, 40, 71 S.Ct. 104, 107, 95 L.Ed. 36 (1950). Accordingly, while we affirm the dismissal of this particular complaint on the ground that it is moot, we vacate the opinion of the district court.
+The case is hereby remanded to the district court with instructions to dismiss appellants’ complaint on grounds of mootness, but without prejudice or any opinion on the merits of the underlying claim.
+. Appellants suggest that this case is not moot because the appellees voluntarily terminated the allegedly unconstitutional press ban. Where, as in the present case, the challenged act is short-term in nature and discontinued after having achieved its objective, the voluntary cessation standard is not applicable. See Murphy v. Benson, 270 F.2d 419, 421 (2d Cir.1959), cert. denied, 362 U.S. 929, 80 S.Ct. 750, 4 L.Ed.2d 747 (1960); cf. City of Mesquite v. Alladin's Castle, Inc., 455 U.S. 283, 288-89, 102 S.Ct. 1070, 1074, 71 L.Ed.2d 152 (1982) (voluntary cessation standard is properly applied where a challenged act is discontinued because of the commencement of prosecution and would likely be reinstituted upon a dismissal).
+
+## Concurrence (HARRY T. EDWARDS, Circuit Judge,)
+
+HARRY T. EDWARDS, Circuit Judge,
+concurring:
+It is clear that in light of the particular allegations of this complaint, the controversy before the court is now moot. In reaching this conclusion, we have had no occasion to consider whether it is unconstitutional for the government to ban the press from covering military actions where the sole or principal justification offered by the government is the safety of the press (and especially where an allegation is made that the government’s actual motivation is to prevent unfavorable press coverage which might influence public opinion). I have no doubt that this question raises a potentially important issue of constitutional law. However, although the issue was presented during the oral argument before this court, it was not encompassed within the complaint before the district court. We therefore need not reach the issue, nor need we decide whether this issue, if properly raised, would be moot.
