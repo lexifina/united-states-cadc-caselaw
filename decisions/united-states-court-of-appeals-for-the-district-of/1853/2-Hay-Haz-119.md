@@ -1,0 +1,30 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+decided: "1853-06-16"
+citations: ["2 Hay. & Haz. 119"]
+reporter: "hay-haz"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Thomas H. Crawford, Judge."]
+parties: ["The United States vs. Daniel T. Woodward."]
+source_url: "https://static.case.law/hay-haz/2/cases/0119-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3866727
+---
+
+# United States v. Woodward
+
+## Majority
+
+The counsel for the defence having prayed certain instructions to the jury, they were granted in a modified form, and are as follows:
+1st. If the jury believe from the evidence given in the case that the deceased destroyed herself, or are uncertain whether she did or not, or that some one else other than the prisoner might have killed her, they ought to acquit him. If she killed herself, of course he is innocent of the charge; or if you think it a matter of doubt whether she did it or not, or whether some other than the prisoner may have killed her, he is entitled to your verdict; for if a reasonable doubt, or any feature of the crime material to its institution exists in the minds of the jury, the law requires his acquittal. To authorize you to convict on circumstantial evidence, it is necessary that the inference of the guilt of the prisoner should exclude every other inference.
+2nd. If the jury believe from the evidence they have heard that the prisoner killed the deceased, and that he did so in a fit of madness, insanity, lunacy or frenzy, he ought to be acquitted. In order to constitute a crime a person must have intelligence and capacity enough to have criminal intent and purpose; and if his reason and mental powers are either so deficient that he has no will, no conscience, or controlling mental power, or if through the overwhelming violence of mental disease his intellectual power is for the time obliterated, he is not a responsible moral agent, and is not punishable for criminal acts. The question of capacity must refer to the particular act with which he is charged. In order to be responsible he must have sufficient power of memory to recollect the relation in which he stands to others, and to which others stand to him; that the act he is doing is contrary to the plain dictates of justice and right, injurious to others, and a violation of the dictates of duty. Insanity caused by drunkenness, if the party is not intoxicated at the time of the commission of the act, excuses as much as any other species of insanity contracted involuntarily. In cases of delirium * tremens or mania a pota, therefore, the law excused the act, provided the party is not drunk when it is committed. If the defendant was laboring uhder the deficiency of mind first stated, or had not the capacity stated in the second proposition, or was affected by mania a pota when the act was done, he ought to be acquitted, notwithstanding any threats he may have used previously. Drunkenness is of itself no excuse for any crime.
+It is however a fact for the jury in connection with all the rest of the evidence in the cause.
+3rd. The above instructions applies to this prayer, and answers it as to insanity. It is only necessary to add that if the defendant was so far deprived of his reason as to be incapable of forming an intention to murder, and being so deprived, inflicts the fatal injury in sudden heat and passion, he ought to be acquitted, no matter what his threats or previous expressions may have been; for the deliberate, wicked, malicious design must exist at the very instance of the commission of the act, and be the motive for committing it.
+4th. If you believe, from the evidence that the prisoner took the life of the deceased, and was at the time of doing so of sound mind, but that he was in a transport of passion, which for the time controlled his conduct, it would reduce the crime to manslaughter, provided there was adequate provocation, notwithstanding any previous threats or expressions he may have used.
+The verdict of the jury was, that they found the prisoner guilty of murder in the first degree.
+A motion was thereupon made and entered for' a new trial; the following are the grounds on which the motion was predicated.
+ist. Because the verdict is contrary to law and the evidence in the case; in that the inference of his guilt does not exclude every other inference; the evidence showing, as it does, that the deceased might or could have killed herself, or that some other than the defendant might or could have killed her, or that she might have been accidentally killed, or she might have been killed by defendant ‘1 in transport of passion, which for the time controlled his conduct,” and “with- adequate provocation,” and thereby reduced the crime to “ manslaughter ” instead of murder.
+2nd. Because it is believed and proposed to show that, according to the declaration and admissions of one or more of the jurors upon the trial, they, the said jurors, agreed and determined upon their said verdict of guilty, immediately after the close of the evidence in the case, and before the Court instructed them as to the law of the case, and before the accused, thereafter, had the “assistance of counsel for his defence.”
+3rd. Evidence discovered since the trial, and which the utmost diligence of the prisoner and his counsel failed to discover previous to the trial, and which the prisoner and his counsel verily believe would have led to a different verdict, had it been adduced upon the trial, and which they expect to deduce, and thereby secure a different verdict, upon a new trial, if granted; said evidence being to the full effect that the prisoner has within the last twenty or more years been so far of unsound mind, frequently, if not uniformly, as to be wholly unconscious and irresponsible for his acts; said unsoundness of mind, according to said evidence, being attributable to part at least to disappointment in love and religious enthusiasm.
+Motion overruled.
