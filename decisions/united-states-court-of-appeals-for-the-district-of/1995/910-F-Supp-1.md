@@ -1,0 +1,42 @@
+---
+court: "United States Court of Appeals for the District of Columbia"
+docket: "Civil Action No. 95-1518"
+decided: "1995-12-14"
+citations: ["910 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Everette HATCHER Jr., Plaintiff, v. U.S. DEPARTMENT OF JUSTICE OFFICE OF INFORMATION AND PRIVACY ACT, Defendant."]
+source_url: "https://static.case.law/f-supp/910/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 646036
+cites_cases: ["28 C.F.R. § 16.81", "477 U.S. 242", "477 U.S. 317", "5 U.S.C. § 552", "658 F.Supp. 204", "71 F.3d 885", "813 F.2d 1236", "9 F.3d 150", "936 F.2d 862"]
+---
+
+# Hatcher v. U.S. Department of Justice Office of Information & Privacy Act
+
+## Majority (SPORKIN, District Judge.)
+
+MEMORANDUM OPINION
+SPORKIN, District Judge.
+The issue in this ease is whether the defendant properly invoked the Freedom of Information Act (“FOIA”), 5 U.S.C. § 552, exemption (b)(7)(C) to justify withholding certain documents requested by plaintiff.
+Background
+Plaintiff, a pro se prisoner, made his original FOIA request on February 27, 1995 for records pertaining to him located in the U.S. Attorney’s Office for the Northern District of Mississippi. After an initial denial of access and a successful administrative appeal, Plaintiff was provided with several pages of responsive material. In total, Defendant released 2 pages in full and 8 pages in part and referred 2 pages to the Postal Service, which subsequently released them to the Plaintiff. Defendant withheld 2 full pages claiming the exemption available under (b)(7)(C).
+Plaintiff filed a complaint under the FOIA in this Court on August 11, 1995 requesting that the Defendants turn over all the documents that it was withholding that are responsive to his FOIA request. On November 9, 1995 Defendant filed a motion for summary judgment claiming that there were no material facts in dispute and that as a matter of law it had properly withheld information under Privacy Act Exemption (j)(2) and FOIA exemption (b)(7)(C). In Plaintiffs opposition, he claims that the Privacy Act exemption (j)(2) and FOIA exemption (b)(7)(C) were not properly invoked. He seeks an in camera review of the documents in dispute. Having considered the submissions of the parties, the Court will grant Defendant’s motion for summary judgment.
+Analysis
+Pursuant to Federal Rule of Civil Procedure 56(c), summary judgment “shall be rendered forthwith if the pleadings, depositions, answers to interrogatories, and admissions on file, together with affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law.” Mere allegations or denials of the moving party’s pleadings are not enough to prevent issuance of summary judgment. The adverse party’s response to the summary judgment motion must “set forth specific facts showing that there is a genuine issue for trial.” Fed.R.Civ.Pro. 56(e).
+The Supreme Court set forth the governing standards for issuance of summary judgment in Celotex Corp. v. Catrett, 477 U.S. 317, 106 S.Ct. 2548, 91 L.Ed.2d 265 (1986), in which the Supreme Court recognized the need for summary judgment to the fair and efficient functioning of the justice system:
+Summary judgment procedure is properly regarded not as a disfavored procedural shortcut, but rather as an integral part of the Federal Rules as a whole, which are designed “to secure the just, speedy and inexpensive determination of every action.” Fed.Rule Civ.Proc. 1____
+Rule 56 must be construed with due regard not only for the rights of persons asserting claims and defenses that are adequately based in fact to have those claims and defenses tried to a jury, but also for the rights of persons opposing such claims and defenses to demonstrate in the manner provided by the Rule, prior to trial, that the claims and defenses have no factual basis.
+Id. at 327, 106 S.Ct. at 2555. (citation omitted).
+The non-moving party, is “required to provide evidence that would permit a reasonable jury to find” in its favor. Laningham v. U.S. Navy, 813 F.2d 1236, 1242 (D.C.Cir.1987) (per curiam) (citing Celotex, supra). The moving party is entitled to summary judgment where “the non-moving party has failed to make a sufficient showing on an essential element of [its] ease with respect to which [it] has the burden of proof.” Celotex 477 U.S. at 323, 106 S.Ct. at 2553. Any factual assertions contained in affidavits and other evidence in support of the moving party’s motion for summary judgment shall be accepted as true unless the facts are controverted by the non-moving party through affidavits or other documentary evidence. See Local Rule 108(h).
+In resolving the summary judgment motion, all reasonable inferences that may be drawn from the facts placed before the court must be drawn in favor of the non-moving party. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255, 106 S.Ct. 2505, 2514, 91 L.Ed.2d 202. The inferences, however, must be reasonable, and the non-moving party can only defeat a motion for summary judgment by responding with some factual showing to create a genuine issue of material fact. Harding v. Gray, 9 F.3d 150, 154 (D.C.Cir.1993).
+A. PRIVACY ACT
+The contents of plaintiffs criminal case file are exempt from the Privacy Act’s disclosure provisions. 28 C.F.R. § 16.81(a)(4) (1991). Subsection (j)(2) allows an agency, by regulation, to exempt from mandatory disclosure
+“records maintained by an agency or component thereof which performs as its principal function any activity pertaining to the enforcement of criminal laws * * * and which consists of * * * (B) information complied for the purpose of a criminal investigation, including reports of informants and investigators, and associated with an identifiable individual; or (C) reports identifiable to an individual complied at any stage of the process of enforcement of the criminal laws from arrest or indictment through release from supervision.”
+The Attorney General has promulgated rules exempting these records from the Privacy Act’s access provisions. Therefore, they are not subject to disclosure under the Privacy Act.
+B. FOIA Request
+5 U.S.C. § 552(b)(7)(C) protects from mandatory disclosure records or information compiled for law enforcement purposes to the extent that disclosure could reasonably be expected to constitute an unwarranted invasion of personal privacy.
+All of the records which were reviewed in this matter pertain to the investigation and prosecution of Plaintiff and others for narcotics-related offenses. Exemption (b)(7)(C) was asserted to protect the identities of and personal information about third party individuals, special agents, government employees and local law enforcement personnel who participated in the investigation and prosecution of the Plaintiff. (Boseker Aff. ¶ 14). To release information that would identify such individuals might subject them to unnecessary public attention or harassment and could even pose a threat to their safety see Branch v. FBI, 658 F.Supp. 204, 209 (D.D.C.1987), see also The Nation Magazine, et al. v. United States Customs Service, 71 F.3d 885, 896 (D.C.Cir.1995) (“We agree with the agency * * * that, to the extent any information contained in 7(C) investigatory files would reveal the identities of individuals who are subjects, witnesses, or informants in law enforcement investigations, those portions of responsive records are categorically exempt from disclosure * * * ”).
+The Vaughn Index provided by the Defendant and the affidavit filed in support of its motion for summary judgment adequately describe the withheld documents and redactions, the claimed exemptions and the reason why such exemptions are applicable. In total, a limited amount of material was withheld from Plaintiff and, where possible, documents were redacted to allow their release. Therefore, no in camera inspection is necessary. Vaughn v. United States 936 F.2d 862, 869 (6th Cir.1991).
+The Defendant has responded appropriately to Plaintiffs FOIA request. The Defendant has made a thorough search and has produced all responsive information not subject to exemption. Therefore, Defendant’s' motion for summary judgment will be granted and Plaintiffs complaint will be dismissed with prejudice.
