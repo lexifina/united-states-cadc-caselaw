@@ -1,0 +1,41 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+docket: "94-5411"
+decided: "1996-01-19"
+citations: ["315 U.S. App. D.C. 303", "73 F.3d 403"]
+reporter: "us-app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: GINSBURG, HENDERSON and RANDOLPH, Circuit Judges."]
+parties: ["UNITED STATES of America, Appellee, v. BCCI HOLDINGS (LUXEMBOURG), S.A., et al., Appellees. General Secretariat of the Organization of American States, Appellant."]
+source_url: "https://static.case.law/us-app-dc/315/cases/0303-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3689559
+cites_cases: ["115 S.Ct. 2613", "132 L.Ed.2d 856", "18 U.S.C. § 1963", "18 U.S.C. §§ 1962", "22 U.S.C. §§ 288", "46 F.3d 1185", "48 F.3d 546", "859 F.2d 1233", "968 F.2d 1570"]
+---
+
+# United States v. BCCI Holdings
+
+## Majority (KAREN LeCRAFT HENDERSON, Circuit Judge:)
+
+Opinion for the court filed by Circuit Judge HENDERSON.
+KAREN LeCRAFT HENDERSON, Circuit Judge:
+The General Secretariat of the Organization, of American States (OAS) appeals the district court’s dismissal of its petition under 18 U.S.C. § 1963(i) for adjudication of OAS’s interest in $10,000 that it deposited with the Bank of Credit and Commerce International (Overseas) Limited (BCCI) and that was subsequently ordered forfeited under 18 U.S.C. § 1963. We affirm the district court’s dismissal on the ground that, notwithstanding its status as an international organization, OAS was, like any other bank depositor, a general creditor of BCCI with no legal interest in any specific forfeited property.
+The material facts are undisputed. On July 1, 1991, OAS deposited in BCCI’s branch bank in Barbados a draft in the amount of $10,000 drawn on an OAS account at American Security Bank (American Security) in Washington, D.C. On July 10, 1991 Capital Bank (Capital) in Miami, Florida, acting as B CCI’s correspondent bank, received payment on the draft through the Federal Reserve System (Federal Reserve) from American Security. On July 18, 1991 OAS directed American Security to stop payment on the draft. American Security then credited $10,000 to OAS’s account and entered a stop payment order into the Federal Reserve. When Capital received the order, it canceled the draft but filed a “Claim of Late Return” with the Federal Reserve, asserting the stop payment was untimely under Federal Reserve regulations. The Federal Reserve agreed and approved the claim. As a result, American Security debited OAS’s account by $10,000 and Capital credited the same amount to BCCI’s account with it. OAS subsequently attempted to recover its money from both BCCI and Capital, but without success.
+On January 24, 1992 BCCI pleaded guilty to violating the Racketeer Influenced and Corrupt Organizations, Act, 18 U.S.C. §§ 1962 et seq. The same day the district court issued an order of forfeiture against BCCI pursuant to the plea agreement. Among the assets ordered forfeited were the funds in BCCI’s account at Capital.
+On April 10, 1992, OAS filed a petition for a hearing, under 18 U.S.C. § 1963(Z), to adjudicate its interest in the $10,000 it had deposited with BCCI. By order dated October 28, 1994, the district court dismissed the petition on the ground that OAS had failed to assert a cognizable interest in any specific forfeited property. OAS appeals that dismissal.
+In order to prevail under section 1963(Z) a petitioner must both assert a legal interest in forfeited property and establish that the interest “vested in the petitioner rather than the defendant or was superior to any right, title, or interest of the defendant at the time of the commission of the acts which gave rise to the forfeiture of the property under this section.” 18 U.S.C. § 1963(Z)(2), (6). OAS can neither assert nor establish a qualifying interest in the $10,-000 it deposited with BCCI because, as we recently held in United States v. BCCI Holdings (Luxembourg), S.A, 46 F.3d 1185 (D.C.Cir.1995), cert. denied, — U.S. ---, 115 S.Ct. 2613, 132 L.Ed.2d 856 (1995), “bank depositors, as general creditors, have no interest in the specific accounts to which their deposits might be traced, only in the defendant’s estate as a whole — and therefore can have no interest in particular assets forfeited, as required under both prongs of § (Z)(6), unless they have already secured a judgment against the debtor and perfected a lien against a particular item.” 46 F.3d at 1191 (citing United States v. Schwimmer, 968 F.2d 1570, 1581 (2d Cir.1992); United States v. Campos, 859 F.2d 1233, 1240 (6th Cir.1988)).
+Attempting to circumvent the rule set out in BCCI Holdings, OAS argues that the forfeiture of its deposit infringed the privileges and immunities OAS enjoys as an “international organization.” As OAS correctly points out, both its own charter, which is binding on the United States as an OAS member, and the International Organizations Immunities Act, 22 U.S.C. §§ 288 et seq., (IOIA) accord OAS special status to conduct its affairs in the United States. The charter provides that OAS “shall enjoy in the territory of each Member such legal capacity, privileges, and immunities as are necessary for the exercise of its functions and the accomplishment of its purposes.” The IOIA more specifically grants the OAS, and other international organizations, special “status, immunities, exemptions, and privileges,” including immunity from legal process and from confiscation of its property, “wherever located and by whomsoever held.” 22 U.S.C. § 288a. These privileges and immunities have no effect, however, on OAS’s interest vel non in the forfeited property. Under our decision in BCCI Holdings, when OAS deposited its money with BCCI, it gave up legal title to the money in exchange for a claim against BCCI for $10,000. Thus, the subsequent forfeiture worked no confiscation of OAS property because OAS retained what it had before — a claim against BCCI for $10,000. Nor was OAS subjected to legal process against its will. The only judicial proceeding in which OAS was a party is the one it initiated itself by filing the section 1963(Z) petition. In sum, the forfeiture proceeding did not interfere with OAS’s legally protected status.
+Because the undisputed facts reveal that OAS had no vested or superior interest in the forfeited property, as required to recover under 18 U.S.C. § 1963(i), the judgment of the district court is
+Affirmed.
+. Section 288a provides in full:
+International organizations shall enjoy the status, immunities, exemptions, and privileges set forth in this section, as follows:
+(a) International organizations shall, to the extent consistent with the instrument creating them, possess the capacity—
+(i) to contract;
+(ii) to acquire and dispose of real and personal property;
+(iii) to institute legal proceedings.
+(b) International organizations, their property and their assets, wherever located, and by whomsoever held, shall enjoy the same immunity from suit and eveiy form of judicial process as is enjoyed by foreign governments, except to the extent that such organizations may expressly waive their immunity for the purpose of any proceedings or by the terms of any contract.
+(c) Property and assets of international organizations, wherever located and by whomsoever held, shall be immune from search, unless such immunity be expressly waived, and from confiscation. The archives of international organizations shall be inviolable.
+(d) Insofar as concerns customs duties and internal-revenue taxes imposed upon or by reason of importation, and the procedures in connection therewith; the registration of foreign agents; and the treatment of official communications, the privileges, exemptions, and immunities to which international organizations shall be entitled shall be those accorded under similar circumstances to foreign governments.
+22 U.S.C. § 288a.
+. OAS also argues for the first time that it is entitled to recover under section 1963(1) because the money it deposited did not come into BCCI's possession until after BCCI’s criminal conduct ceased. Because OAS did not advance this argument below, it is waived on appeal. See Souders v. Washington Metropolitan Transit Auth., 48 F.3d 546, 550 (D.C.Cir.1995).
