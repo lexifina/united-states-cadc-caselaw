@@ -2,7 +2,7 @@
 court: "United States Court of Appeals for the District of Columbia Circuit"
 docket: "21865, 24398, 24415 and 24428"
 decided: "1993-03-30"
-citations: ["300 U.S. App. D.C. 281", "988 F.2d 1239", "300 U.S. App. D.C. 277", "988 F.2d 1235"]
+citations: ["300 U.S. App. D.C. 281", "988 F.2d 1239"]
 reporter: "us-app-dc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,6 @@ parties: ["DEMOCRATIC CENTRAL COMMITTEE OF THE DISTRICT OF COLUMBIA, et al., Pet
 source_url: "https://static.case.law/us-app-dc/300/cases/0281-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3812484
-cites_cases: ["988 F.2d 1239"]
 ---
 
 # Democratic Central Committee v. Washington Metropolitan Area Transit Commission
