@@ -1,0 +1,35 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+docket: "00-1397"
+decided: "2001-10-09"
+citations: ["23 F. App'x 1"]
+parties: ["NOVARTIS NUTRITION CORPORATION, Petitioner/Cross-Respondent, v. NATIONAL LABOR RELATIONS BOARD, Respondent/Cross-Petitioner."]
+source_url: "https://static.case.law/f-appx/23/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 276599
+cites_cases: ["117 F.3d 627", "133 F.3d 934", "144 F.3d 830", "216 F.3d 92", "240 F.3d 26", "254 F.3d 114", "29 U.S.C. § 160", "29 U.S.C. §§ 158", "324 U.S. 793", "331 NLRB No. 161", "375 U.S. 405", "522 U.S. 359", "56 F.3d 224", "863 F.2d 946"]
+---
+
+# Novartis Nutrition Corp. v. National Labor Relations Board
+
+## Head matter
+
+NOVARTIS NUTRITION CORPORATION, Petitioner/Cross-Respondent, v. NATIONAL LABOR RELATIONS BOARD, Respondent/Cross-Petitioner.
+No. 00-1397.
+United States Court of Appeals, District of Columbia Circuit.
+Oct. 9, 2001.
+Before HARRY T. EDWARDS, ROGERS, and TATEL, Circuit Judges.
+
+## Majority
+
+Petition for Review of Decision and Order of the National Labor Relations Board
+JUDGMENT
+This cause came to be heard on the record from the National Labor Relations Board and was briefed by the parties. The issues have been accorded full consideration by the Court and occasion no need for a published opinion. See D.C.Cir. Rule 36(c). For the reasons stated in the accompanying Memorandum, it is
+ORDERED and ADJUDGED by the Court that the petition for review is denied and the National Labor Relations Board’s cross-application for enforcement is granted.
+The Clerk is directed to withhold issuance of the mandate herein until seven days after disposition of any timely petition for rehearing. See D.C.Cir. Rule 41.
+MEMORANDUM
+Novartis Nutrition Corporation petitions for review of the decision and order by the National Labor Relations Board (“the Board”), 331 NLRB No. 161 (Aug. 28, 2000), finding that the company violated §§ 801(a)(1) and (3) of the National Labor Relations Act, 29 U.S.C. §§ 158(a)(1) and (3); the Board cross-applies for enforcement of its order. The company contends that there is not substantial evidence to support the findings that it violated the Act by placing overly-broad and disparately-applied restrictions on its employees’ union activities, and by issuing a warning to an employee because be was a union activist. It also contends that there is not substantial evidence to support the finding that the company promised and granted benefits to influence employees’ support for the union. Finally, it contends that there is not substantial evidence that it violated the Act by discharging an employee because of his protected activity.
+The court’s review of the Board’s unfair labor practice decisions is limited to whether the Board’s findings of fact are supported by substantial evidence, see 29 U.S.C. § 160(e); Traction Wholesale Ctr. Co., Inc. v. NLRB, 216 F.3d 92, 99 (D.C.Cir.2000), such that the Board’s interpretation of the facts is reasonably defensible. See Harter Tomato Prod. Co. v. NLRB, 133 F.3d 934, 938 (D.C.Cir.1998); see also Allentown Mack Sales and Serv., Inc. v. NLRB, 522 U.S. 359, 377, 118 S.Ct. 818, 139 L.Ed.2d 797 (1998).
+The company contends that it did not violate the Act when supervisors told several employees that they could not discuss the union at work and when a supervisor warned an employee about his performance and instructed him to limit his union activity in the same conversation. Although the company claims that its supervisors merely said they were “unsure” whether employees could solicit support for the union in the break room, the Board accepted the Administrative Law Judge’s decision to credit instead the employees’ testimony in light of the recollections of the parties’ witnesses. See Tasty Baking, 254 F.3d at 124. Furthermore, one supervisor never corrected his mis-statement to employees after learning of their statutory rights. In addition, the supervisor’s statement to Taray to confine his solicitation of union cards to non-work time and, in the same conversation, warning Taray that his performance was an issue, occurred regarding an employee about whose performance the company had not previously expressed any concern. Viewed in context, the Board could reasonably find that the supervisors’ statements could reasonably tend to coerce employees and lead them to believe they could not exercise their statutory rights. See Republic Aviation, 324 U.S. 793, 803 n. 10, 65 S.Ct. 982, 89 L.Ed. 1372 (1945); Tasty Baking, 254 F.3d at 124; Teamsters Local Union No. 171 v. NLRB, 863 F.2d 946, 954 (D.C.Cir. 1988).
+The company’s contention that its promises of improved employee benefits were unrelated to the union drive fares no better. See NLRB v. Exchange Parts Co., 375 U.S. 405, 409, 84 S.Ct. 457, 11 L.Ed.2d 435 (1964); General Electric v. NLRB, 117 F.3d 627, 636-37 (D.C.Cir.1997). There was substantial evidence to support the Board’s finding that Novartis would not have offered the improved benefits absent the union drive. See Traction Wholesale, 216 F.3d at 102. The company had no prior established practice of granting the types of improved benefits that it conferred during the union campaign. See Perdue Farms, Inc., Cookin’ Good Div. v. NLRB, 144 F.3d 830, 836 (D.C.Cir.1998). Previously, the company had formulated only generalized goals. The company fails to show there is not substantial evidence that the company’s deviation from the status quo could be traced to the anti-union meetings that the company held. See id.
+Finally, the company contends that contrary to the Board’s finding that its discharge of Tresemer was motivated by Tresemer’s union activity, its action was based on a reasonable belief that Tresemer had falsified company records by indicating he had checked for steam at the unitherm machine when he had not checked each steam block individually. The Board found the company’s explanation of the discharge was pretextual. We find no basis for overturning the Board’s determination of the company’s motive. See Laro Maintenance Corp. v. NLRB, 56 F.3d 224, 229 (D.C.Cir.1995); Petrochem Insulation, Inc. v. NLRB, 240 F.3d 26, 34 (D.C.Cir. 2001). The evidence showed, for example, that Tresemer had never been instructed or trained to check each steam block individually, and that other employees had received far more lenient discipline for similar incidents. Tresemer had a good work record prior to his discharge. The company showed hostility toward the union drive and was aware of Tresemer’s union activity and open criticism of supervisors. In addition, the timing of Tresemer’s discharge was “highly suspicious,” coming barely two months after his criticism of three supervisors for mismanagement and favoritism at the company’s anti-union meeting. See Tasty Baking Co. v. NLRB, 254 F.3d 114, 125 (D.C.Cir.2001). The Board could reasonably find, therefore, that the company had failed to show that it would have discharged Tresemer had he not been outspoken in the union drive. See, e.g., Tasty Baking, 254 F.3d at 126.
