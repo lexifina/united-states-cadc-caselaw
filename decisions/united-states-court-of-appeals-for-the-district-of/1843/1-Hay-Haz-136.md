@@ -1,0 +1,27 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+decided: "1843-06-15"
+citations: ["1 Hay. & Haz. 136"]
+reporter: "hay-haz"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The United States vs. William P. Zantzinger."]
+source_url: "https://static.case.law/hay-haz/1/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 307597
+---
+
+# United States v. Zantzinger
+
+## Majority
+
+The defendant put in a counter-claim in the way of a set-off' against the United States of $16,879.19, of which amount the sum of $74.57 was credited by the Auditor of the Treasury as being erroneously charged to him. Subsequently, the following agreement was entered into by the respective attorneys:
+That the Treasurer’s transcript, staring a balance of $8,902.22 to be due, shall be read as evidence of the indebtment by the defendant to that amount, subject, however, to-such deductions by way of set-off as the defendant may be able to sustain before the court and jury, and as are claimed in the defendant’s account.
+The first set-off claimed by the defendant was for $279.12 advances paid by said defendant on requisitions approved by the commanding officer of the vessel of which he was purser.
+The plaintiffs, by their counsel, prayed the court to instruct the jury, that if they believe the evidence, the defendant is not entitled to the set-off claimed as to such advances as were made, unless the jury shall further believe from the evidence that they were original advances made by authority ■of the Navy Department to the men at the time of their enlistment, and that as to such advances as were made to men who afterwards died or deserted without having satisfied tbe said advances, the defendant is not entitled to the set-off claimed, unless the jury shall further believe from the evidence that the said advances were made under a previous special order of the commanding officer of the vessel, besides, and over and above his general approval of the ordinary requisitions for the articles; and such special order was produced to the auditor on a certificate of the commander of the vessel that such order had been issued by him, either in writing or verbally; or unless the jury shall believe from the evidence that such general approval was given with a knowledge on the part of the commander of the vessel that the men for whom the said articles were required wore at the time in debt to the United States ; which the court refused to give.
+The next set-off was a claim for pay for the time he was alleged to have been out of the navy under an erroneous construction of the act of Congress of March 1, 1817, by the Secretary of the Navy, in relation to increase of purser’s bond. The United States, by their attorney, prayed the court to instruct-the jury that the defendant is not entitled to the set-off claimed, unless he can satisfy the jury by competent evidence that he entered into bond with two or more sureties in the penalty of $25,000, as required by the act of Congress of March 1, 1817; which instruction the court (nem con.) gave.
+-The following set-off was claimed by the defendant: 2J-per cent, commission on payments made as purser ; that said allowance was of ancient date, as was evidenced by the Red Book of the Navy Department, page 18. The plaintiffs thereupon offered to prove by parol by clerks in the Navy Department, and officers of the Treasury, that at the time-the defendant was appointed as purser, or at any time subsequent thereto, no rule, usage or practice existed in the Navy Department whereby pursers in the navy were entitled! to a commission of 2 J per-cent, on payments made by them in the discharge of their proper duties as such pursers ; to-the admissibility of said evidence the defendant objected,, but the court, (nem con.,) overruled the objection and permitted the said evidence to be given.
+The defendant further claimed a set-off for interest paid by him on bonds given by him in liquidation of a former account against the defendant, the justice of which he did not. admit, but in order to obtain a nomination which was then pending in the Senate, he consented to give. That it is not the usage or practice of the Government to charge interest-on amounts or balances except in case of suit or judgment-, recovered. The plaintiffs, by their counsel, prayed the court to instruct the jury that the defendant is not entitled to the said set-off ; which the court (nem con.) gave.
+The jury, underpaid instruction, brought in a verdict for $8,253.21 for the United States.
+Sec. 1. That every purser now in service, or who may hereafter be appointed shall, instead of the bond required by the act to which this is a supplement, enter into bond with two or more sufficient sureties, in the penalty of $25,000, conditioned for the faithful discharge of all his duties as purser in the Navy of Ihe United States, which said sureties shall be approved by the judge or attorney of the United States for the District in which such purser shall reside.
+Sec. 2. That from and after the first day of May, next, no persons shall act in the character of purser who shall not enter into bond as aforesaid excepting persons on distant service who shall not remain in service longer than two months after their return to the United States, unless they shall comply with the provisions of the first section of this act. Chap. 24,1817.
