@@ -2,7 +2,7 @@
 court: "United States Court of Appeals for the District of Columbia"
 docket: "Civ.A. 95-133(RCL)"
 decided: "1998-12-22"
-citations: ["34 F. Supp. 2d 28", "34 F. Supp. 2d 47"]
+citations: ["34 F. Supp. 2d 28"]
 reporter: "f-supp-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["JUDICIAL WATCH, INC., Plaintiff, v. UNITED STATES DEPARTMENT OF COMME
 source_url: "https://static.case.law/f-supp-2d/34/cases/0028-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11746524
-cites_cases: ["129 Okla. 211", "160 F.R.D. 51", "264 P. 194", "445 U.S. 136", "477 U.S. 317", "5 U.S.C. § 552", "558 F.2d 1133", "833 F.2d 1046", "84 Geo.L.J. 617", "875 F.Supp. 861", "915 F.2d 1301"]
+cites_cases: ["129 Okla. 211", "264 P. 194", "445 U.S. 136", "477 U.S. 317", "558 F.2d 1133", "833 F.2d 1046", "84 Geo.L.J. 617", "875 F.Supp. 861", "915 F.2d 1301"]
 ---
 
 # Judicial Watch, Inc. v. United States Department of Commerce
