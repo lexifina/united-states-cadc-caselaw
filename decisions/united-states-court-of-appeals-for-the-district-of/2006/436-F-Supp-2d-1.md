@@ -1,0 +1,41 @@
+---
+court: "United States Court of Appeals for the District of Columbia"
+docket: "Civil Action No. 03-1931 (PLF)"
+decided: "2006-06-23"
+citations: ["436 F. Supp. 2d 1"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter WILSON, Plaintiff, v. WASHINGTON METROPOLITAN AREA TRANSIT AUTHORITY, Defendant."]
+source_url: "https://static.case.law/f-supp-2d/436/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3288536
+cites_cases: ["2003 WL 23305156", "255 Va. 309", "359 U.S. 275", "497 S.E.2d 139", "901 F.2d 387", "98 Md. App. 502"]
+---
+
+# Wilson v. Washington Metropolitan Area Transit Authority
+
+## Majority (PAUL L. FRIEDMAN, District Judge.)
+
+MEMORANDUM OPINION AND ORDER
+PAUL L. FRIEDMAN, District Judge.
+This is a tort action in which the plaintiff seeks to recover damages for electric shock injuries he sustained while working on a new parking garage owned by the defendant in Montgomery County, Maryland. The matter is before the Court on two motions. The first is defendant’s motion to strike the ad damnum clause in the complaint to the extent that plaintiff seeks recovery in excess of $200,000. The second is defendant’s motion to amend the Joint Pretrial Statement, originally filed on December 16, 2005, to include two affirmative defenses raised in defendant’s Answer and Amended Answer.
+Upon consideration of the arguments of the parties, the Court concludes that the $200,000 cap on the liability of the State of Maryland and its units provided in the Maryland Tort Claims Act, Md. State Gov’t Code Ann. § 12-104(a)(2), does not apply to actions brought in courts other than the state courts of Maryland. The Court further concludes that the defendant may amend the Joint Pretrial Statement to include assumption of risk as an affirmative defense.
+I. DISCUSSION
+A. Defendant’s Motion to Strike Ad Damnum Clause
+WMATA was formed by an interstate compact between Maryland, Virginia and the District of Columbia. Section 80 of the WMATA Compact provides that WMATA is “liable for its torts and those of its directors, officers, employees and agents committed in the conduct of any proprietary function, in accordance with the law of the applicable signatory.” Md. Transp. Code Ann. § 10-204(80). The Compact further provides that the United States District Courts have original jurisdiction, concurrent with the courts of Maryland, Virginia and the District of Columbia, over any actions brought by or against WMA-TA. See Md. Transp. Code Ann. § 10-204(81).
+The Maryland Tort Claims Act (“MTCA”) limits the liability of the Maryland State government for tort claims as follows:
+(1) Subject to the exclusions and limitations in this subtitle and notwithstanding any other provision of law, the immunity of the State and its units is waived as to a tort action, in a court of the State, to the extent provided under paragraph (2) of this subsection.
+(2) The liability of the State and its units may not exceed $200,000 to a single claimant for injuries arising from a single incident or occurrence.
+Md. State Gov’t Code Ann. § 12-104(a) (emphasis added). Defendant argues that the language of Section 80 of the WMATA Compact incorporates the MTCA into the Compact as the “law of the applicable signatory” and thus that the $200,000 cap on liability contained in the MTCA applies here. It is clear from the plain language of the MTCA, however, that Maryland’s limited waiver of sovereign immunity and the $200,000 limit on damages only extend to cases brought in Maryland state courts.
+Citing the Maryland Court of Special Appeals’ decision in Maxwell v. WMATA, the defendant argues that WMATA must receive all the protections afforded to any other Maryland state agency in any jurisdiction. See Maxwell v. WMATA, 98 Md. App. 502, 633 A.2d 924, 928 (1993). The court in Maxwell specified, however, that the limits on liability created by the state in the MTCA only apply in state courts. Id. at 928 (“While WMATA, as a Maryland agency, may have a greater immunity from suit in Maryland courts than that granted by subsection 80 [of the Compact], it can have no less in any court.”).
+The only two cases to have considered whether the WMATA Compact incorporates caps on liability created by the signatory states have held that it does not. In the first, WMATA v. Briggs, the Supreme Court of Virginia held that Section 80 of the Compact does not incorporate the limitation on damages contained in the Virginia Tort Claims Act even though WMATA is a part of the state government. WMATA v. Briggs, 255 Va. 309, 497 S.E.2d 139, 141 (1998). The phrase “in accordance with the law of the applicable signatory” means simply that Virginia courts “must apply the substantive tort law governing the conduct of a director, officer, employee, or agent of WMATA who commits a tort while performing any proprietary function.” Id. at 141. The Compact does not incorporate the limitation on damages contained in the Virginia Tort Claims Act, nor does it mention or refer to the Virginia Tort Claims Act. Id. Furthermore, the Compact itself places no limits on WMA-TA’s liability. Id. The same is true here; the MTCA is not mentioned in, referred to in, or incorporated into the Compact.
+In the other case to consider the issue, Lyons v. WMATA the United States District Court for the District of Maryland (relying on Briggs) held that the cap on liability contained in the MTCA is not incorporated in WMATA’s waiver of sovereign immunity in the Compact. Lyons v. WMATA No. 03-1066, 2003 WL 23305156, *1, U.S. Dist. LEXIS 24696, at *4 (D.Md. Dec. 26, 2003). Under Lyons, therefore, the $200,000 cap on liability does not apply to WMATA at all, even in Maryland state courts. Nevertheless, the issue before this Court is more limited, and the Court concludes that the cap does not apply to WMATA in federal courts because the language of the MTCA only waives the state’s sovereign immunity with respect to cases in Maryland state courts.
+B. Defendant’s Motion to Amend Pretrial Statement
+Defendant seeks to amend the Joint Pretrial Statement to add both the $200,000 limit on liability provided by the Maryland Tort Claims Act and assumption of risk as affirmative defenses to be proved at trial. For the reasons discussed above, the Joint Pretrial Statement cannot be amended as to the cap on liability because that cap does not apply in federal courts. The Joint Pretrial Statement can, however, be amended to incorporate the affirmative defense of assumption of risk. Defendant included assumption of risk as a defense in both its Answer and its Amended Answer as required by Rule 8(c) of the Federal Rules of Civil Procedure. See Answer at 3; Am. Answer at 3. In addition, defendant filed its motion to amend the Joint Pretrial Statement on February 8, 2006, more than five months before trial, which is now scheduled to begin on July 31, 2006. Plaintiff therefore has had ample notice of the defendant’s intention to raise the defense, and there is little danger of unfair prejudice to plaintiff from an amendment to the Joint Pretrial Statement to that effect.
+II. CONCLUSION
+The Court concludes that the $200,000 limit on the liability of the State of Maryland and its units contained in the Maryland Tort Claims Act does not apply in federal courts. The Court further finds it appropriate to permit amendment of the Joint Pretrial Statement to include assumption of risk as an affirmative defense. Accordingly, it is hereby
+ORDERED that [38] defendant’s motion to strike the ad damnum clause of the complaint to the extent it seeks recovery above $200,000 is DENIED; and it is
+FURTHER ORDERED that [36] defendant’s motion to amend the Joint Pretrial Statement is GRANTED in part and DENIED in part.
+SO ORDERED.
+. A state may waive immunity to different degrees in state courts as compared to federal courts, and a waiver in state court will not qualify as a waiver in federal court. See Petty v. Tennessee-Missouri Bridge Commission, 359 U.S. 275, 276-77, 79 S.Ct. 785, 3 L.Ed.2d 804 (1959); see also Weller v. Dep’t of Social Servs. for the City of Baltimore, 901 F.2d 387, 397-98 (4th Cir.1990).
