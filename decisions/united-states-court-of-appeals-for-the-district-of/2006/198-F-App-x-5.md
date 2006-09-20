@@ -1,0 +1,31 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+docket: "06-5150, 06-5152"
+decided: "2006-09-20"
+citations: ["198 F. App'x 5"]
+judges: ["BEFORE: GINSBURG, Chief Judge, and GARLAND and KAVANAUGH, Circuit Judges."]
+parties: ["David HENDERSON, Appellant v. Alberto GONZALES, Attorney General, Appellee."]
+source_url: "https://static.case.law/f-appx/198/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5857965
+cites_cases: ["371 U.S. 178"]
+---
+
+# Henderson v. Gonzales
+
+## Head matter
+
+David HENDERSON, Appellant v. Alberto GONZALES, Attorney General, Appellee.
+Nos. 06-5150, 06-5152.
+United States Court of Appeals, District of Columbia Circuit.
+Sept. 20, 2006.
+David Henderson, El Paso, TX, pro se.
+BEFORE: GINSBURG, Chief Judge, and GARLAND and KAVANAUGH, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+JUDGMENT
+PER CURIAM.
+These appeals were considered on the record from the United States District Court for the District of Columbia and on the briefs filed by the appellant. See Fed. R.App. P. 34(a)(2); D.C.Cir. Rule 34(j). It is
+ORDERED AND ADJUDGED that the district courts’ orders be affirmed. In his briefs, appellant challenges only the denial of his motions for leave to amend his complaints. The letter with which appellant sought to amend his complaints was already attached to the complaint filed in No. 06cv0859, however, and in neither case did the district court abuse its discretion in denying leave to amend. See Foman v. Davis, 371 U.S. 178, 182, 83 S.Ct. 227, 9 L.Ed.2d 222 (1962).
+Pursuant to D.C. Circuit Rule 36, this disposition will not be published. The Clerk is directed to withhold issuance of the mandate herein until seven days after resolution of any timely petition for rehearing or petition for rehearing en banc. See Fed. R.App. P. 41(b); D.C.Cir. Rule 41.
