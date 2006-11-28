@@ -1,0 +1,39 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+docket: "05-3154"
+decided: "2006-11-28"
+citations: ["208 F. App'x 3"]
+judges: ["Before: RANDOLPH, GARLAND and GRIFFITH, Circuit Judges."]
+parties: ["UNITED STATES of America, Appellee v. Roger W. RUCKER, Appellant."]
+source_url: "https://static.case.law/f-appx/208/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3893991
+cites_cases: ["240 F.3d 55", "392 U.S. 1", "490 U.S. 1", "880 F.2d 1439"]
+---
+
+# United States v. Rucker
+
+## Head matter
+
+This case was not selected for publication in the Federal Reporter
+UNITED STATES of America, Appellee v. Roger W. RUCKER, Appellant.
+No. 05-3154.
+United States Court of Appeals, District of Columbia Circuit.
+Nov. 28, 2006.
+Rehearing En Banc Denied Jan. 19, 2007.
+Roy Wallace McLeese, III, Assistant U.S. Attorney, U.S. Attorney’s Office, (USA) Criminal Appellate, Washington, DC, for Appellee.
+Douglas James Wood, Riverdale, MD, for Appellant.
+Before: RANDOLPH, GARLAND and GRIFFITH, Circuit Judges.
+
+## Majority
+
+JUDGMENT
+This appeal was considered on the record from the United States District Court for the District of Columbia and on the briefs and arguments of the parties. It is
+ORDERED and ADJUDGED that the district court’s denial of the appellant’s motion to suppress evidence be affirmed.
+While standing trial on drugs and weapons charges, appellant Roger Rucker moved to suppress the Government’s use of evidence that the police had found in his possession when they first stopped him and in his car after they had arrested him. The district court denied the motion, and Rucker entered into a plea agreement with the Government conditioned on the outcome of this appeal.
+On April 6, 2004 at 4:30 p.m., Officer Michael Eames, a narcotics investigator with twelve years of experience with the Metropolitan Police Department, was driving with his partner in an unmarked police car through a residential area known for drug trafficking. As they drove down Varnum Street, Eames and his partner saw Rucker leaning into the rear passenger door of a car with a coat in his hand. As the officers approached, Rucker looked at them, dropped his coat inside the vehicle, shut the door, crossed the street in front of the officers’ car, making eye contact with them several times, and then walked into an alley adjacent to Varnum Street.
+Officer Eames turned their car into the alley and saw Rucker standing next to the basement window of 324 Varnum Street. His right hand, which was clenched in a fist, was inside the iron security bars that covered the window. When Rucker saw the officers approaching, he jerked his hand away from the window, brought it to his waist, and started walking down the alley away from the officers. Officer Eames identified himself and asked Ruck-er to stop, but Rucker continued walking away at a normal pace. The officers exited their car, again identified themselves, and again asked Rucker to stop. Rucker gave no heed to their request and continued walking away from them and into the backyard of 324 Varnum. He descended a small flight of stairs to a basement door. When the officers approached, Rucker had both of his hands at eye-level. In one hand he was holding a cell phone to his ear; the other was clenched in a fist. Officer Eames asked Rucker to walk up the steps towards the officers. The officers then followed Rucker down into the stairwell. Rucker dropped both his hands towards his waist and, in response, the officers immediately grabbed him. As they walked Rucker up the stairs away from the basement door, one of the officers noticed a plastic bag sticking out from the bottom of Rucker’s clenched left hand, and shouted, “[H]e’s got narcotics in his hand.” Rucker tried to break free but fell to the ground spilling around him bags filled with crack cocaine. The officers took Rucker into custody, and the police recovered a total of forty-five bags of crack cocaine on his person and in the area around him. The next day, the police executed a search warrant for Rucker’s car and found 23.37 grams of crack cocaine, 6.9 grams of marijuana, and a loaded nine-millimeter handgun.
+On June 30, 2004, Rucker was indicted by a federal grand jury on two counts of possession of five grams or more of cocaine base with intent to distribute, two counts of using a firearm in furtherance of a drug trafficking offense, and one count of possession of marijuana with intent to distribute. On July 15, 2004, Rucker filed a motion to suppress the evidence both seized on and around him and from his car. Rucker argued that the officers lacked a reasonable suspicion to stop him, making the stop and arrest illegal and tainting the evidence the police found. The district court concluded that the stop was reasonable and denied his motion.
+Police officers may make brief investigatory stops if they have a reasonable articulable suspicion that a person is engaged in criminal activity. Terry v. Ohio, 392 U.S. 1, 30-31, 88 S.Ct. 1868, 20 L.Ed.2d 889 (1968). In determining whether the stop was reasonable, we look at the totality of the circumstances, United States v. Sokolow, 490 U.S. 1, 8, 109 S.Ct. 1581, 104 L.Ed.2d 1 (1989), understanding that “due weight must be given, not to [the officer’s] inchoate and unparticularized suspicion or ‘hunch,’ but to the specific reasonable inferences which he is entitled to draw from the facts in light of his experience,” Terry, 392 U.S. at 27, 88 S.Ct. 1868. “Even though a single factor might not itself be sufficiently probative of wrongdoing to give rise to a reasonable suspicion, the combination of several factors — especially when viewed through the eyes of an experienced officer — may [be sufficiently probative of wrongdoing to give rise to a reasonable suspicion].” United States v. Edmonds, 240 F.3d 55, 59 (D.C.Cir.2001).
+The district court relied on the following three factors in determining that the officers had a reasonable suspicion to stop Rucker: 1) the events took place in an area known for drug trafficking; 2) Ruck-er abruptly retracted his clutched hand from a window after the police entered the alley and moved his hand to his waist; and 3) he refused to stop after police repeatedly identified themselves and asked him to stop. We agree and add our own. See In re Swine Flu Immunization Prod. Liab. Litig., 880 F.2d 1439, 1444 (D.C.Cir.1989) (holding that “it is settled law that an appellate court can affirm a district court judgment on the basis of any grounds which ... support [it]”) (quotation marks and citation omitted). The officers had a reasonable suspicion that Rucker posed a threat to their safety. In light of the circumstances identified by the district court, an experienced officer like Officer Eames could have reasonably suspected that Rucker was reaching for a weapon when he responded to Eames’ request to come up the steps away from the basement door by dropping his hands from eye-level towards his waist. Grabbing Rucker’s hands was not an unreasonable use of force but was a permissible stop under Terry v. Ohio. That stop quickly yielded evidence that led to probable cause justifying the arrest and the subsequent search of Rucker’s car. We therefore affirm the district court’s denial of Rucker’s motion to suppress.
+Pursuant to D.C. Circuit Rule 36, this disposition will not be published. The Clerk is directed to withhold issuance of the mandate herein until seven days after resolution of any timely petition for rehearing or petition for rehearing en banc. See Fed. R.App. P. 41(b); D.C.Cir. Rule 41.
