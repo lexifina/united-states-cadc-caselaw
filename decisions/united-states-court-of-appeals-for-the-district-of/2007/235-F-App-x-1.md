@@ -1,0 +1,32 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+docket: "06-5398"
+decided: "2007-04-27"
+citations: ["235 F. App'x 1"]
+judges: ["BEFORE: GINSBURG, Chief Judge, and ROGERS and BROWN, Circuit Judges."]
+parties: ["Jonathan STEELE, Appellant v. SUPREME COURT OF the UNITED STATES, et al., Appellees."]
+source_url: "https://static.case.law/f-appx/235/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3603328
+cites_cases: ["100 S.Ct. 1034", "113 S.Ct. 131", "121 L.Ed.2d 85", "444 U.S. 1081", "506 U.S. 844", "606 F.2d 168", "62 L.Ed.2d 765", "781 F.2d 935", "82 F.3d 1085", "956 F.2d 339"]
+---
+
+# Steele v. Supreme Court of the United States
+
+## Head matter
+
+Jonathan STEELE, Appellant v. SUPREME COURT OF the UNITED STATES, et al., Appellees.
+No. 06-5398.
+United States Court of Appeals, District of Columbia Circuit.
+April 27, 2007.
+Jonathan Steele, Sanderson, FL, pro se.
+BEFORE: GINSBURG, Chief Judge, and ROGERS and BROWN, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+JUDGMENT
+PER CURIAM.
+This appeal was considered on the record from the United States District Court for the District of Columbia and on the brief and appendix filed by appellant. It is
+ORDERED AND ADJUDGED that the district court’s order filed October 18, 2006, be affirmed. The district court correctly dismissed with prejudice appellant’s action against the United States Supreme Court and its Clerk and staff. See In re Marin, 956 F.2d 339, 340 (D.C.Cir.) (per curiam) (denying mandamus petition against Clerk of Supreme Court for lack of jurisdiction), cert. denied, 506 U.S. 844, 113 S.Ct. 131, 121 L.Ed.2d 85 (1992); Panko v. Rodak, 606 F.2d 168, 171 n. 6 (7th Cir.1979) (“[I]t seems axiomatic that a lower court may not order the judges or officers of a higher court to take an action.”), cert. denied, 444 U.S. 1081, 100 S.Ct. 1034, 62 L.Ed.2d 765 (1980).
+Moreover, the district court did not abuse its discretion in refusing to file appellant’s post-dispositional motion for an extension of time to file an amended complaint or motion for reconsideration. See James Madison Ltd. v. Ludwig, 82 F.3d 1085, 1099 (D.C.Cir.1996) (court may deny motion to amend complaint as futile if amended complaint would not survive motion to dismiss); Center for Nuclear Responsibility, Inc. v. Nuclear Regulatory Commission, 781 F.2d 935, 941 (D.C.Cir.1986) (the court does not have discretion to extend the 10-day period for filing a motion under Rule 59(e)). As appellant’s notice of appeal was timely, appellant’s request for an extension of time to appeal was moot.
+Pursuant, to D.C. Circuit Rule 36, this disposition will not be published. The Clerk is directed to withhold issuance of the mandate herein until seven days after resolution of any timely petition for rehearing or petition for rehearing en banc. See Fed. R.App. P. 41(b); D.C.Cir. Rule 41.
