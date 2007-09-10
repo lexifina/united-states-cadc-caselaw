@@ -2,7 +2,7 @@
 court: "United States Court of Appeals for the District of Columbia"
 docket: "Criminal No. 04-43 (GK)"
 decided: "2007-09-10"
-citations: ["508 F. Supp. 2d 1", "508 F. Supp. 2d 7"]
+citations: ["508 F. Supp. 2d 1"]
 reporter: "f-supp-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["UNITED STATES of America v. Darren A. FERGUSON, Defendant."]
 source_url: "https://static.case.law/f-supp-2d/508/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3685119
-cites_cases: ["155 F.3d 1051", "18 U.S.C. § 2510", "18 U.S.C. § 2703", "18 U.S.C. § 2708", "2007 WL 2601448", "2007 WL 2660260", "255 F.3d 890", "32 F.3d 503", "342 F.3d 1093", "414 U.S. 338", "423 U.S. 411", "468 U.S. 897", "480 U.S. 340", "490 F.3d 455", "508 F.Supp.2d 7", "537 F.2d 120", "56 F.3d 1087", "778 F.2d 570", "812 F.2d 486"]
+cites_cases: ["18 U.S.C. § 2510", "2007 WL 2660260", "32 F.3d 503", "468 U.S. 897", "508 F.Supp.2d 7", "537 F.2d 120", "56 F.3d 1087", "778 F.2d 570", "812 F.2d 486"]
 ---
 
 # United States v. Ferguson
