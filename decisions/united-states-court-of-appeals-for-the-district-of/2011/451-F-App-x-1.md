@@ -1,0 +1,32 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+docket: "10-7173"
+decided: "2011-08-03"
+citations: ["451 F. App'x 1"]
+judges: ["BEFORE: SENTELLE, Chief Judge, and GARLAND and BROWN, Circuit Judges."]
+parties: ["Joan Frances M. MALONE, Appellant v. Eleanor Holmes NORTON, Delegate to the U.S. House of Representatives, et al., Appellees."]
+source_url: "https://static.case.law/f-appx/451/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4204173
+cites_cases: ["28 U.S.C. § 1915", "490 U.S. 319", "550 U.S. 544"]
+---
+
+# Malone v. Norton
+
+## Head matter
+
+Joan Frances M. MALONE, Appellant v. Eleanor Holmes NORTON, Delegate to the U.S. House of Representatives, et al., Appellees.
+No. 10-7173.
+United States Court of Appeals, District of Columbia Circuit.
+Aug. 3, 2011.
+Joan Frances M. Malone, Washington, DC, pro se.
+Donna M. Murasky, Esquire, Deputy Solicitor, Office of the Attorney General, District of Columbia, Office of the Solicitor General, Washington, DC, for Appellees.
+BEFORE: SENTELLE, Chief Judge, and GARLAND and BROWN, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+JUDGMENT
+PER CURIAM.
+This appeal was considered on the record from the United States District Court for the District of Columbia and on the brief filed by appellant. See Fed. R.App. P. 34(a)(2); D.C.Cir. Rule 34(j). It is
+ORDERED AND ADJUDGED that the district court’s order filed November 5, 2010, be affirmed. The district court properly dismissed appellant’s complaint as frivolous, pursuant to 28 U.S.C. § 1915(E)(1)(B). See Neitzke v. Williams, 490 U.S. 319, 325, 109 S.Ct. 1827, 104 L.Ed.2d 338 (1989). Dismissal was also proper because the complaint failed to meet the minimal pleading requirements under Fed.R.Civ.P. 8(a), which requires “a short and plain statement of the claim showing that the pleader is entitled to relief,” in order to “give the defendant fair notice of what the ... claim is and the grounds upon which it rests.” Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007) (internal quotation marks omitted).
+Pursuant to D.C. Circuit Rule 36, this disposition will not be published. The Clerk is directed to withhold issuance of the mandate herein until seven days after resolution of any timely petition for rehearing or petition for rehearing en banc. See Fed. R.App. P. 41(b); D.C.Cir. Rule 41.
