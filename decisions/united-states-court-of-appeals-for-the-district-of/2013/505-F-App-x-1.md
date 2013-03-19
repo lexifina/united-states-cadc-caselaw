@@ -1,0 +1,32 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+docket: "13-5002"
+decided: "2013-03-19"
+citations: ["505 F. App'x 1"]
+judges: ["Before: GARLAND, Chief Judge; and HENDERSON and KAVANAUGH, Circuit Judges."]
+parties: ["Marshall REEDOM, Jr., Appellant v. Tom VILSACK, Secretary of Agriculture, U.S. Department of Agriculture, Appellee."]
+source_url: "https://static.case.law/f-appx/505/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4138360
+cites_cases: ["1 C.F.R. § 4284.620"]
+---
+
+# Reedom v. Vilsack
+
+## Head matter
+
+Marshall REEDOM, Jr., Appellant v. Tom VILSACK, Secretary of Agriculture, U.S. Department of Agriculture, Appellee.
+No. 13-5002.
+United States Court of Appeals, District of Columbia Circuit.
+March 19, 2013.
+Marshall Reedom, Jr., Fort Worth, TX, pro se.
+R. Craig Lawrence, U.S. Attorney’s Office, Washington, DC, for Appellee.
+Before: GARLAND, Chief Judge; and HENDERSON and KAVANAUGH, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+JUDGMENT
+PER CURIAM.
+This appeal was considered on the record from the United States District Court for the District of Columbia and on the brief filed by appellant. See Fed. R.App. P. 34(a)(2); D.C.Cir. Rule 34(j). It is
+ORDERED AND ADJUDGED that the district court’s order filed December 18, 2012 be affirmed. The district court correctly determined appellant lacked standing, because the grants at issue may be awarded only to organizations. See 1 C.F.R. § 4284.620.
+Pursuant to D.C. Circuit Rule 36, this disposition will not be published. The Clerk is directed to -withhold issuance of the mandate herein until seven days after resolution of any timely petition for rehearing or petition for rehearing en banc. See Fed. R.App. P. 41(b); D.C.Cir. Rule 41.
