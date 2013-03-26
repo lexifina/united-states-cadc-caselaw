@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+docket: "11-3101"
+decided: "2013-03-26"
+citations: ["404 U.S. App. D.C. 247", "710 F.3d 434"]
+reporter: "us-app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: KAVANAUGH, Circuit Judge, and EDWARDS and WILLIAMS, Senior Circuit Judges."]
+parties: ["UNITED STATES of America, Appellee v. Jason Todd REYNOLDS, Appellant."]
+source_url: "https://static.case.law/us-app-dc/404/cases/0247-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3661783
+cites_cases: ["110 S.Ct. 2668", "112 S.Ct. 1146", "18 U.S.C. § 1028", "242 F.3d 399", "331 U.S. 519", "496 U.S. 633", "503 U.S. 249", "515 F.3d 1234", "519 U.S. 337", "592 F.3d 602", "663 F.3d 496", "706 F.3d 716"]
+---
+
+# United States v. Reynolds
+
+## Majority (WILLIAMS, Senior Circuit Judge:)
+
+Opinion for the Court filed by Senior Circuit Judge WILLIAMS.
+WILLIAMS, Senior Circuit Judge:
+Jason Reynolds was the chief financial officer of the National City Christian Church in Washington, D.C. (The church is operated in part through a National City Christian Church Foundation, but for our purposes the two appear interchangeable and we will refer only to the church.) In that capacity he swindled the church out of more than $850,000, much of it through arranging an increase in the church’s line of credit at Adams National Bank.
+Reynolds’s technique in increasing the line of credit led to charges of “aggravated identity theft” under 18 U.S.C. § 1028A. The technique appears comparatively simple. As chief financial officer he had access to digital versions of the signatures of at least four of the church’s officers. He used these to create a purported corporate resolution bearing the officers’ signatures and approving the increased borrowing, which resolution he then gave the bank.
+A jury convicted Reynolds of four counts of aggravated identity theft, one for each of the officers. It also found him guilty of bank and wire fraud, making a false statement on a loan application, four counts of tax evasion, and first-degree fraud under District of Columbia law. Section 1028A calls for a sentence of two years for each § 1028A violation. 18 U.S.C. § 1028A(a)(l). Such sentences are generally to run consecutively with sentences for other offenses, but may sometimes (as here) run concurrently with sentences for other § 1028A violations. Id. § 1028A(b). On appeal, Reynolds argues that under a proper construction of § 1028A there was insufficient evidence to sustain his identity theft convictions; he also argues that the district court made two erroneous evidentiary rulings. Only the identity theft claim calls for discussion in a published opinion.
+Reynolds contends that the government was required to prove both that he stole the officers’ identity information and that the officers suffered individual harm beyond that suffered by the church. Because the government did not present evidence on those points at trial, says Reynolds, his convictions under § 1028A must be vacated. We review this claim for plain error: although Reynolds asked the district court for a judgment of acquittal on the § 1028A charges, his motion did not raise these arguments. See United States v. McCoy, 242 F.3d 399, 402 (D.C.Cir.2001).
+We begin of course with the statutory language, United States v. Villanueva-Sotelo, 515 F.3d 1234, 1237 (D.C.Cir.2008), and if its meaning is plain and unambiguous as to the disputed issue, that is where we stop, Robinson v. Shell Oil Co., 519 U.S. 337, 340, 117 S.Ct. 843, 136 L.Ed.2d 808 (1997); see also Connecticut Nat’l Bank v. Germain, 503 U.S. 249, 253-54, 112 S.Ct. 1146, 117 L.Ed.2d 391 (1992). Section 1028A reads in relevant part:
+Whoever, during and in relation to any felony violation enumerated in [18 U.S.C. § 1028A(e) ], knowingly transfers, possesses, or uses, without lawful authority, a means of identification of another person shall, in addition to the punishment provided for such felony, be sentenced to a term of imprisonment of 2 years.
+18 U.S.C. § 1028A(a)(l). The parties agree that Reynolds committed a felony enumerated in § 1028A(e), and Reynolds has abandoned on appeal his argument that a signature is not a “means of identification.”
+This leaves Reynolds with statutory text that is clearly not on his side. While he argues that § 1028A applies only to “stolen” information, § 1028A(a)(l) explicitly covers a defendant who “uses ” a means of identification without lawful authority. By contrast, two subsections of the immediately preceding provision, which sets forth various other identity-related fraud crimes, refer specifically to identity information that has been “stolen.” See 18 U.S.C. § 1028(a)(2), (6).
+To the extent that there is a textual hook for Reynolds’s stolen-information argument, it is the requirement that the use be “-without lawful authority.” But “use[ ] ... without lawful authority” easily encompasses situations in which a defendant gains access to identity information legitimately but then uses it illegitimately — in excess of the authority granted. All circuits to consider the question have agreed on the principle. See, e.g., United States v. Lumbard, 706 F.3d 716, 725 (6th Cir. 2013); United States v. Ozuna-Cabrera, 663 F.3d 496, 498-99 (1st Cir.2011); United States v. Abdelshafi, 592 F.3d 602, 607-08 (4th Cir.2010). Reynolds concedes that he submitted the signature-bearing corporate resolution to the bank “without obtaining the express permission of the signature holders each time he used it,” Appellant’s Br. 10, and thus without authority, let alone lawful authority. Thus the statutory text seems to give Reynolds no hold.
+Accordingly Reynolds turns to § 1028A’s title — “aggravated identity theft” — and to isolated statements in the legislative history referring to the stealing of information through computer hacking and the like. The statutory text being unambiguous, however, these tools cannot aid him. See Connecticut Nat’l Bank, 503 U.S. at 253-54, 112 S.Ct. 1146; Bhd. of R.R Trainmen v. Baltimore & Ohio R.R. Co., 331 U.S. 519, 528, 67 S.Ct. 1387, 91 L.Ed. 1646 (1947). Moreover, even if the statute itself were less clear, mention of particular examples in the legislative history — in all probability chosen for their vividness, poignancy, and resonance with popular understandings — would provide no ground for narrowing its reach. See Pension Benefit Guar. Corp. v. LTV Corp., 496 U.S. 633, 649, 110 S.Ct. 2668, 110 L.Ed.2d 579 (1990). We therefore reject Reynolds’s argument that § 1028A requires evidence that the defendant stole the identity information at issue.
+Reynolds’s second argument — that § 1028A applies only where the individuals whose means of identification were unlawfully used have suffered individual harm — has even less statutory support. It rests solely on occasional comments in the legislative history illustrating the types of harm that violative behavior may cause— the sort of example that proponents of a provision would naturally highlight. Again, the statute is clear, and these examples supply no basis for reading it narrowly. See id.
+Because both Reynolds’s arguments lack merit, we find no error — much less plain error — in the district court’s denial of his motion for a judgment of acquittal on the § 1028A charges.
+XXX
+The judgment of the district court is
+Affirmed.
