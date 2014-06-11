@@ -1,0 +1,45 @@
+---
+court: "United States Court of Appeals for the District of Columbia"
+docket: "Criminal No. 08-360 (RCL), Criminal No. 14-107 (RCL)"
+decided: "2014-06-11"
+citations: ["22 F. Supp. 3d 25"]
+reporter: "f-supp-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES of America v. Paul A. SLOUGH, Evan S. Liberty, and Dustin L. Heard, Defendants. United States of America v. Nicholas A. Slatten, Defendant."]
+source_url: "https://static.case.law/f-supp-3d/22/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4274913
+cites_cases: ["101 F.3d 129", "509 U.S. 579", "641 F.3d 544", "677 F.Supp.2d 112", "999 F.2d 549"]
+---
+
+# United States v. Slough
+
+## Majority (ROYCE C. LAMBERTH, United States District Judge)
+
+MEMORANDUM OPINION
+ROYCE C. LAMBERTH, United States District Judge
+Before the Court is defendants’ motion [472] to exclude the expert testimony of government expert Robert F. Mothers-head II. Upon consideration of the defendants’ motion, the government’s opposition [500], oral argument held on May 29, 2014, the applicable law, and the entire record herein, the Court will DENY the motion to exclude Mothershead’s testimony.
+I. BACKGROUND
+Both the District Court and the Court of Appeals for the District of Columbia Circuit have previously described the factual background of this case. United States v. Slough, 677 F.Supp.2d 112, 116, 129 (D.D.C.2009) (“Slough I”), vacated, 641 F.3d 544, 555 (D.C.Cir.2011) (“Slough IF); Slough II, 641 F.3d at 547-49. Thus, the Court will now only highlight the relevant facts and procedural background.
+According to evidence that defendants intend to introduce at trial, some unknown item injured defendant Dustin Heard’s arm during the Nisur Square incident on September 16, 2007. Defs.’s Mot. at 2. At the time of this injury, defendant Heard was the rear turret gunner in one vehicle; Jeremy Ridgeway, who has pled guilty in this case, was the front turret gunner in that same vehicle. Gov’t’s Opp. at 2. To Ridgeway, the object that injured Heard appeared to be a pen flare; Heard usually carried a pen flare on his person during missions. Id. Heard, however, attributed his injury to a tracer round. Id.
+The government acquired defendant Heard’s clothing from that day and sent it to FBI forensic chemist Robert F. Moth-ershead II for analysis. Id. at 3. Mr. Mothershead examined defendant Heard’s glove, sleeve, and hood. Mot. at 3. Mr. Mothershead performed chemical tests on the glove, sleeve, and hood. On the glove, he found barium and magnesium particles. Id. at 2-3. Magnesium and barium are not elements normally found within or on clothing (Opp. at 6); however, they do match some of the chemicals within a pen flare. Mot. at 3^4. Mr. Mothershead performed no further tests — he did not attempt to establish that the barium and magnesium on defendant Heard’s glove came from a pen flare, only that they could have come from a pen flare. See Mot. at 3 (“[barium and magnesium] may be found in various other chemical compositions and products” (emphasis removed)). The government intends to call Mr. Mothershead as an expert witness during trial. Defendants now seek to have his testimony excluded.
+II. LEGAL STANDARD
+Admissibility of expert testimony is governed by Rule 702 of the Federal Rules of Evidence (“Rule 702”). It states that a witness who is
+qualified as an expert ... may testify ... if:
+a) the expert’s scientific, technical, or other specialized knowledge will help the trier of fact to understand the evidence or to determine a fact in issue;
+b) the testimony is based on sufficient facts or data;
+c) the testimony is the product of reliable principles and methods; and
+d) the expert has reliably applied the principles and methods to the facts of the case.
+Fed. R. Evid. 702.
+The Supreme Court further refined this threshold test in Daubert v. Merrell Dow Pharmaceuticals, Inc., where it held that admissible expert scientific testimony must be based on “scientific knowledge,” and that it must “assist the trier of fact to understand the evidence or determine a fact at issue” — a “condition [that] goes primarily to relevance” and can be met by “a valid scientific connection to the pertinent inquiry.” 509 U.S. 579, 589-90, 592, 113 S.Ct. 2786, 125 L.Ed.2d 469 (1993). “Pertinent evidence based on scientifically valid principles will satisfy those demands.” Id. at 597, 113 S.Ct. 2786. The Supreme Court also offered four nonexclusive, non-dispositive factors to guide trial courts in their assessments of expert testimony: (1) whether the opinion at issue can be tested; (2) whether it has been peer-reviewed; (3) the rate of known or potential error; and (4) general acceptance within the scientific community. Id. at 593-94, 113 S.Ct. 2786. These factors are neither exclusive nor dispositive because “the inquiry envisioned by Rule 702 is ... a flexible one.” Id. at 594, 113 S.Ct. 2786.
+As with any other piece of evidence this Court may exclude Mr. Mothershead’s testimony if “its probative value is substantially outweighed by a danger of ... unfair prejudice, confusing the issues, misleading the jury, undue delay, wasting time, or needlessly presenting cumulative evidence.” Fed. R. Evid. 403.
+III. ANALYSIS
+Defendants do not challenge Mr. Moth-ershead’s qualifications, and so the Court need not consider them any further. They also do not contest that Mr. Mothershead’s tests produced “scientific knowledge” to satisfy Danbert. Daubert, 509 U.S. at 589-90, 113 S.Ct. 2786. Rather, the defense challenges the probative value of his testimony. Essentially, the defense argues that, because Mr. Mothershead only matched the chemicals against pen flares and not against anything else, the contemplated evidence will not just fail to aid the jury but will in fact confuse it.
+Daubert counsels that the district court should “focus ... solely on principles and methodology, not on the conclusions that they generate,” Daubert, 509 U.S. at 595, 113 S.Ct. 2786. But here defendants quibble primarily with Mr. Mothershead’s ultimate conclusion (see Mot. at 7 (“Mr. Mothershead then qualified his conclusions to a degree that renders them effectively meaningless”)). This misplaces the proper inquiry under Daubert — if defendants want to have Mr. Mothershead’s testimony thrown out, they need to successfully challenge his process.
+Defendants’ methodological challenge to Mr. Mothershead’s expected testimony essentially comes down to a protest over how they think the government will choose to use it. As far as the Court can tell, the defense does not object to Mr. Mothershead testifying that he found chemicals on Heard’s glove that were consistent with the chemicals found within pen flares; instead, they object to using the testimony to prove anything else. In Ambrosini v. Labarraque, 101 F.3d 129 (1996), this Circuit confronted a similar issue. There, the plaintiffs wanted to use a doctor’s testimony to prove a certain type of drug caused a birth defect, even though the doctor had not ruled out other potential causes. See Ambrosini 101 F.3d at 131-32. The Court held that “the Dau-bert analysis does not establish a heightened threshold for the admission of expert evidence, but rather focuses on the court’s ‘gatekeeper’ role as a check on ‘subjective belief and ‘unsupported speculation.’ ” . Id. at 134 (citing Daubert, 509 U.S. at 590, 113 S.Ct. 2786). Mr. Mothershead’s testimony would fit neither of these categories; he tested both the flare and the glove and found similar chemicals, which is certainly not subjective or unsupported. That Mr. Mothershead did not establish that the chemicals on Heard’s glove specifically came from a pen flare is irrelevant. “Under Daubert ... evidence does not warrant exclusion simply because it fails to establish the causal link to a specified degree of probability.” Ambrosini, 101 F.3d at 135.
+As the government stated correctly in its brief, defendants’ complaints about Mr. Mothershead’s testimony go to its weight, not its admissibility. See Opp. at 6-7. Daubert and the new Rule 702 did not make the rules on admitting expert testimony more restrictive; “the rejection of expert testimony is the exception rather than the rule.” Fed. R. Evid. 702 advisory committee’s note. Expert testimony should be excluded only when it is based on “guesswork, speculation, and conjecture.” Joy v. Bell Helicopter Textron, Inc. 999 F.2d 549, 568 (D.C.Cir.1993) (internal quotation omitted). Mr. Mothershead’s testimony is not based on speculation. Barium and magnesium were present both on Heard’s glove and in the pen flare. No one disputes this. This Court cannot exclude expert testimony with such a foundation.
+IV. CONCLUSION
+For the foregoing reasons, the Court DENIES the defendants’ -motion [472] to exclude the expert testimony of government expert Robert F. Mothershead II.
+A separate Order consistent with this Memorandum Opinion shall issue this date.
+. The defendants apparently have opted not to submit a reply brief for this motion.
