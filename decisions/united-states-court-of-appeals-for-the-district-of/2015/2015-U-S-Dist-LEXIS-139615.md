@@ -1,0 +1,53 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+docket: "Case No. 1:12-cv-01755 (CRC)"
+decided: "2015-10-14"
+citations: ["138 F. Supp. 3d 10", "2015 U.S. Dist. LEXIS 139615", "2015 WL 5996328"]
+judges: ["Cooper"]
+source_url: "https://www.courtlistener.com/opinion/7316235/sack-v-department-of-justice/"
+source: "CourtListener (Free Law Project); opinions are public domain"
+cap_id: "cl-7316235"
+---
+
+# Sack v. Department of Justice
+
+## Lead (Cooper)
+
+ORDER AND OPINION
+
+CHRISTOPHER R. COOPER, United States District Judge
+In its April 23, 2015 Order [ECF No. 43], this Court granted in part and denied in part Defendant Department of Justice’s (“DOJ”)' renewed Motion for Summary Judgment, and directed the FBI to conduct additional searches for documents responsive t'o Plaintiff 'Kathryn Sack’s FOIA request for records related to the agency’s polygraph program. The Court also reserved ruling on the FBI’s invocation of FOIA Exemptions (b)(2), (b)(5), and (b)(7)(E) to withhold documents from production to Plaintiff. Following that Order, DOJ submitted a supplementál memorandum in support of its Motion for Summary Judgment on June 22, 2015, noting that it had conducted the searches and released to Plaintiff the documents they yielded. Not having received a response from Plaintiff after six weeks, the Court issued an Order on August 7, 2015, directing Plaintiff to show cause why the remaining claims against DOJ should not *12be dismissed. In Plaintiffs response to that Order, she explained that she does not oppose DOJ’s arguments set forth in its supplemental memorandum and that she is “satisfied for the most part” with the FBI’s supplemental search and release of documents. However, she maintains her previous objections to the FBI’s reliance on the three exemptions. Because the FBI properly invoked those exemptions, and because Plaintiff sets forth no other objections, the Court will grant what remains of DOJ’s renewed motion for summary judgment.
+
+I. FBI’s Invocation of FOIA Exemption (b)(2)
+
+FOIA Exemption (b)(2) provides that agencies responding to FOIA requests need not make available to the public information “related solely to the internal personnel rules and practices of an agency.” 5 U.S.C. § 552(b)(2). The FBI invoked this exemption to withhold documents “relating to the selection process for FBI Polygraph Examiners.” Def.’s Suppl. Mem. Supp. Mot. Summ. J. 7. The agency contends that the information therein does not concern use of polygraphs, Def.’s Reply Supp. Suppl. Mem. 9, and instead “pertains to administrative matters of interest only to FBI employees,” Def.’s Suppl. Mem. Supp. Mot. Summ. J. 7. Plaintiff counters that, in an earlier ruling, this Court concluded that the Bureau of Alcohol, Tobacco, Firearms and Explosives could not invoke the same exemption to withhold documents concerning how it uses polygraph techniques to screen job applicants, and that by the same reasoning, the FBI cannot withhold “how it chooses the examiners responsible ” for implementing such polygraph techniques. Pl.’s Resp. Defi’s Suppl. Mem. 6-7.
+
+But an agency’s hiring practices are distinct from its use of certain technologies, even if the hiring process at issue concerns potential operators of those technologies. “The key word” in Exemption (b)(2) “is ‘personnel.’ ” Milner v. Dep’t of the Navy, 562 U.S. 562, 569, 131 S.Ct. 1259, 179 L.Ed.2d 268 (2011). The term “refers to human resources matters,” such as “the selection, placement, and training of employees.” Id. (quoting Webster’s Third New International Dictionary 1687 (1966)) (internal quotation mark omitted). In Milner, the Supreme Court distinguished between use of techniques or implementation of agency policy by personnel on the one hand, and matters concerning hiring of and benefits for personnel on the other. The Court rejected an attempt to shield under this exemption documents of the Department of the Navy containing data that “assists Navy personnel in storing munitions.” Id. at 578, 131 S.Ct. 1259. The Court reasoned that the modifier “personnel” limits the scope of the exemption to information not just “for personnel,” ■ but “about personnel”—in other words, “that [which] relates to employee relations or human resources.” Id.
+
+Under Milner’s logic, documents concerning the use of certain technologies, such as polygraph techniques, by personnel would not be covered by this exemption, as this Court concluded in its previous Order. But documents relating to “the selection” or “placement” of employees—even those whose job descriptions require that they use those technologies later on—would be covered by Exemption (b)(2). Id. at 569, 131 S.Ct. 1259. Accordingly, the Court will uphold the FBI’s use of this exemption for these documents concerning the agency’s selection processes.
+
+II. FBI’s Invocation of FOIA Exemption (b)(5)
+
+FOIA Exemption (b)(5) protects “inter-agency or intra-agency memoran*13dums or letters which would not be available by law to a party other than an agency in litigation with the agency.” 5 U.S.C. § 552(b)(5). In other words, agencies may withhold, under this exemption, documents that “satisfy two conditions: [their] source [is] a Government agency, and [they] fall within the ambit of a privilege against discovery under' judicial standards that would govern litigation against the agency that holds [them].” Dep’t of the Interior v. Klamath Water Users Protective Ass’n, 532 U.S. 1, 8, 121 S.Ct. 1060, 149 L.Ed.2d 87 (2001). The FBI invoked this exemption to withhold a “paragraph containing the recommendation of employees in the FBI’s Security Division to the Director’s Office about the feasibility of hiring non-agent polygraph examiners” as protected by the “deliberative process” privilege. Def.’s Suppl. Mem. Supp. Mot. Summ. J. 10.
+
+The deliberative process privilege “covers ‘documents reflecting advisory opinions, recommendations, and deliberations comprising part of a: process by which governmental decisions and policies are formulated.’ ” Klamath Water Users, 532 U.S. at 8, 121 S.Ct. 1060 (quoting NLRB v. Sears, Roebuck & Co., 421 U.S. 132, 150, 95 S.Ct. 1504, 44 L.Ed.2d 29 (1975)). Such documents must be “both ‘pre-decisional’ and ‘deliberative.’” Judicial Watch, Inc. v. U.S. Dep’t of the Treasury, 796 F.Supp.2d 13, 25 (D.D.C.2011) (quoting Judicial Watch, Inc. v. FDA, 449 F.3d 141, 151 (D.C.Cir.2006)). "The protection rests on the recognition “that officials will not communicate candidly among themselves if each remark is a potential item of discovery and front page news, and its object is to enhance ‘the quality of agency decisions,’ by protecting open and frank discussion among those who make them within the Government.” Id. at 8-9, 121 S.Ct. 1060 (citation omitted) (quoting Sears, Roebuck, 421 U.S. at 151, 95 S.Ct. 1504).
+
+The government argues that the recommendation “was not adopted or implemented by the FBI,” and thus that it was pre-decisional and deliberative, and its disclosure would “discourage candid discussion within the agency in the future.” Defi’s Suppl. Mem. Supp. Mot. Summ. J. 10. Ms. Sack counters that the withheld paragraph does not reflect mere deliberation as described by the FBI, but rather “states the official position of the entire FBI Polygraph Program,” which renders it “post-decisional” with respect to that Program. Pl.’s Resp. Defi’s Suppl. Mem. 7.
+
+The FBI is correct. The “deliberative process privilege is intended to protect ‘the decision making processes of government agencies,’,” not merely of agency departments generating recommendations for agency directors. Judicial Watch, 796 F.Supp.2d at 25 (emphasis added) (quoting Judicial Watch, Inc. v. Dep’t of Justice, 365 F.3d 1108, 1113 (D.C.Cir.2004)). A document is “pre-decisional if it was generated before agency policy was adopted and deliberative if it ‘reflects the give and take of the consultative process.’ ” Id. (quoting Judicial Watch, 449 F.3d at 151). Because the withheld paragraph was generated by an agency department “before agency policy was adopted” by the FBI Director, and because it reflects an exchange of ideas within the agency, in that its recommendation was not adopted, the FBI was justified in withholding this paragraph under Exemption (b)(5).
+
+III. FBI’s Invocation of FOIA Exemption (b)(7)(E)
+
+FOIA Exemption (b)(7)(E).protects records or information compiled for law enforcement purposes, but only to the extent that the production of such .... records or information ... would dis*14close techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for [such actions] if such disclosure could reasonably be expected to risk circumvention of the law.
+
+5 U.S.C. § 552(b)(7)(E).- The FBI invoked this exemption to withhold “information about procedures and techniques used by FBI agents to conduct polygraph examinations.” Def.’s Suppl. Mem. Supp. Mot. Summ. J. 14. In support, the government contends that disclosing this information “could reasonably.be expected to. risk circumvention of the law” under the exemption because it would have the potential to allow deduction of patterns or methods the FBI uses to implement polygraphs as law enforcement tools.’ In her response to DOJ’s supplemental memorandum in support of its motion for summary judgment, Sack objects to use of this exemption on the ground that the FBI’s definition of a reasonable risk of circumvention of the law is overbroad.
+
+As the government points out, “Exemption 7(E) sets a ‘low bar for the agency to justify withholding.’ ” Citizens for Responsibility and Ethics in Wash. v. U.S. Dep’t of Justice, 746 F.3d 1082, 1102 (D.C.Cir.2014) (quoting Blackwell v. FBI, 646 F.3d 37, 42 (D.C.Cir.2011)). The D.C. Circuit has upheld use of Exemption 7(E) to protect from disclosure the CIA’s security clearance procedures because it was “self-evident that information revealing [such] procedures could render those procedures vulnerable and weaken their effectiveness at uncovering background information on potential candidates.” Morley v. CIA 508 F.3d 1108, 1129 (D.C.Cir.2007). So too here. Disclosing the procedures and techniques the FBI uses to conduct polygraph examinations would weaken their effectiveness at tracking and interpreting responses to questioning during such examinations, which would thereby weaken the effectiveness of polygraph examinations as a law enforcement tool. Accordingly, the-FBI was justified in withholding these documents under Exemption (b)(7)(E).
+
+IV. Conclusion
+
+For the foregoing reasons, it is hereby
+
+ORDERED that what remains of Defendant’s renewed Motion for Summary Judgment is GRANTED,
+
+SO ORDERED.
