@@ -1,0 +1,40 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+docket: "15-7026"
+decided: "2016-04-26"
+citations: ["639 F. App'x 3"]
+judges: ["Before: TATEL and SRINIVASAN, Circuit Judges, and EDWARDS, Senior Circuit Judge."]
+parties: ["Sandra COMPTON, Soror, et al., Appellants v. ALPHA KAPPA ALPHA SORORITY INCORPORATED and Howard University, Appellees."]
+source_url: "https://static.case.law/f-appx/639/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4269953
+cites_cases: ["64 F.Supp.3d 1", "701 F.3d 718"]
+---
+
+# Compton v. Alpha Kappa Alpha Sorority Inc.
+
+## Head matter
+
+Sandra COMPTON, Soror, et al., Appellants v. ALPHA KAPPA ALPHA SORORITY INCORPORATED and Howard University, Appellees.
+No. 15-7026.
+United States Court of Appeals, District of Columbia Circuit.
+April 26, 2016.
+Jon Wyndal Gordon, The Law Office of J. Wyndal Gordon, P.A., Baltimore, MD, for Appellants.'
+Justin Flint, Laura M.K; Hassler, Ecele-ston & Wolf, PC, Alan S. Block, Dawn Singleton, Bonner Kiernan Trebach & Crociata, LLP, Leroy T. Jenkins, Jr., Esquire, Howard University, Washington, DC, for Appellees.
+Before: TATEL and SRINIVASAN, Circuit Judges, and EDWARDS, Senior Circuit Judge.
+
+## Majority (PER CURIAM.)
+
+JUDGMENT
+PER CURIAM.
+This appeal was considered on the record from the United States District Court for the District of Columbia and on the briefs of the parties. See Fed. R.App. P. 34(a)(2); D.C.Cir. R. 34(j). The Court has accorded the issues full consideration and has determined that they do not warrant a published opinion. See Fed. R.App. P. 36; D.C.Cir. R. 36(d). It is hereby
+ORDERED and ADJUDGED that the district court’s orders filed August 12, 2014, September 10, 2014, and February 18, 2015, be affirmed for the reasons stated in the memorandum accompanying this judgment.
+Pursuant to D.C. Circuit Rule 36, this disposition will not be published. The Clerk is directed to withhold the issuance of the mandate herein until seven days after the resolution of any timely petition for rehearing en bane. See Fed. R.App. P. 41(b); D.C.Cir. R. 41.
+MEMORANDUM
+Appellants filed this diversity suit against Alpha Kappa Alpha Sorority Incorporated (AKA) and Howard University (Howard). Appellants are two mothers, active AKA members, and two daughters, both Howard students during the period relevant to their claims. The mothers’ status as active members of AKA entitled their daughters to preferential treatment during the AKA membership-selection process. Appellants allege the daughters were denied such treatment when they applied to join AKA’s Howard chapter, giving rise to claims for breach of contract, ultra vires acts, negligence, intentional infliction of emotional distress, and tortious interference with contractual relations. We agree with the district court that none of the claims has merit.
+The membership selection process for AKA is regulated by multiple institutions. AKA’s Constitution requires compliance with school rules in the membership-intake process. Howard rules dictate that “[e]ach fraternity or sorority is expected to maintain membership” in either the National Pan-Hellenic Council or Council of Fraternal Organizations and “to abide by all applicable ... governing council rules and regulations.” Howard University Student Handbook 63 (2012-2013) (J.Á. 85). AKA is, accordingly, a member of the National Pan-Hellenic Council. The rules of the Howard chapter of the Council limit sororities to accepting fifty new members per year. The rules also dictate that no more than one-third of new members can be legacy applicants, defined, as relevant here, as students who have a parent who is an active member of AKA. Finally, AKA’s Undergraduate Membership Intake Process Manual provides criteria for selecting members when, as here, more qualified applicants apply than the applicable membership caps allow. According to the Manual, when the number of new members is capped, legacies are to be admitted first, Additionally, when the number of legacies is also capped, the available legacy spots are to be filled first with sophomores, then juniors, and then seniors. GPA may be used as a further tiebreaker.
+When the daughters applied for membership in early 2013, AKA considered sixty-one applicants, of whom twenty-eight were legacies. Applying the Manual’s selection criteria and the Council rules imposing a fifty-person new-member cap and a one-third legacy-applicant cap, AKA admitted seventeen legacies (one-third of fifty, rounded up), of whom sixteen were sophomores and juniors; the remaining legacy spot was filled by the senior legacy applicant with the highest GPA. The daughters, Howard seniors neither of whom had the highest GPA, were therefore not admitted.
+Appellants allege that the chapter’s administration of the membership process was a breach of contract because it violated AEA’s Constitution. Each of Appellants’ theories of breach fails,, however. Appellants primarily take issue with AKA’s following the caps set by the Howard chapter of the National Pan-Hellenic Council. The Manual, they argue, requires following caps set by “a college or university — not by a Pan-Hellenic council. J.A. 102. Appellants further contend that the Constitution permits reliance only on rules of the National Panhellenic Conference, not the National Pan-Hellenic Council. The district court found' that distinction irrelevant.
+We affirm the district court. Compliance with Council regulations is required by Howard. In particular, AKA’s Constitution requires following school rules. Howard’s rules in turn require membership in and adherence to the rules of a Pan-Hellenic council. AKA is consequently bound by the Council caps. Whatever may be the exact relationship between the National Panhellenic Conference and the National Pan-Hellenic Council, the AKA Constitution and Manual clearly require following university rules. The district court thus was ultimately correct to conclude that AKA “followed the required process in selecting and rejecting candidates,” Compton v. Alpha Kappa Alpha Sorority, Inc., 64 F.Supp.3d 1, 17 (D.D.C. 2014), because it complied with the caps imposed by its university-mandated membership in the Council.
+Appellants’ remaining arguments in support of their breach of contract claims are also meritless. First, they allege that AKA violated its obligation to follow Howard’s sixty-five-person new-member cap by instead abiding by the fifty-person cap set by Howard’s chapter of the Council. Adhering to the latter, however, inevitably honors the former. Howard dictates only a maximum number of new members, so admitting fifty new members was squarely in compliance with Howard’s rule. Next, Appellants assert that the daughters were subjected to a chapter vote, in violation of the AKA Constitution’s Legacy Clause, which states that legacy candidates “will not be subject to a vote by the chapter.” J.A. 94. Appellants contend that the chapter had only one member at the time of the selection, who made the decision not to submit the daughters’ names, so the decision not to accept the daughters “was voted upon 100 percent by one member.” J.A. 14. But the application of nondiscre-tionary caps to exclude the daughters, in accordance with the AKA Constitution and Manual, was not a vote. The Legacy Clause only protects legacy candidates from selection by vote; it does not guarantee that the alternative legacy-selection process will end in membership.
+The mothers also bring ultra vires claims for AKA’s withdrawal of their membership. Those claims are now moot: AKA reinstated the mothers’ memberships such that AKA has “eradicated the effects of the alleged violation,” and “there is no reasonable expectation ... that the alleged violation will recur.” Kifafi v. Hilton Hotels Ret. Plan, 701 F.3d 718, 725 (D.C.Cir. 2012). The remaining claims — negligence, intentional infliction of emotional distress, and tortious interference with contract— are meritless for the reasons stated by the district court.
