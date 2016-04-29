@@ -1,0 +1,39 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+docket: "14-3036"
+decided: "2016-04-29"
+citations: ["650 F. App'x 1"]
+judges: ["Before: Wilkins, Circuit Judge, and Ginsburg and Randolph, Senior Circuit Judges."]
+parties: ["UNITED STATES of America, Appellee v. Derrick BYAS, Appellant."]
+source_url: "https://static.case.law/f-appx/650/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4340365
+cites_cases: ["18 U.S.C. § 1956", "18 U.S.C. § 3553", "21 U.S.C. § 843", "21 U.S.C. §§ 841", "23 F.3d 513", "552 U.S. 38", "554 F.3d 155", "741 F.3d 1284"]
+---
+
+# United States v. Byas
+
+## Head matter
+
+UNITED STATES of America, Appellee v. Derrick BYAS, Appellant.
+No. 14-3036
+September Term, 2015
+United States Court of Appeals, District of Columbia Circuit.
+Filed On: April 29, 2016
+James Anderson Ewing, Esquire, Elizabeth Trosman, Esquire, Assistant U.S. Attorneys, USAO Appellate Counsel, U.S, Attorney’s Office, (USA) Appellate Division, Washington, DC, for Plaintiff-Appel-lee.
+Joseph Roll Conte, Law Offices of J.R. Conte, Charles Jay Soschin, Law Office of Charles Soschin, Washington, DC, for Defendant-Appellant.
+Before: Wilkins, Circuit Judge, and Ginsburg and Randolph, Senior Circuit Judges.
+
+## Majority (Per Curiam)
+
+JUDGMENT
+Per Curiam
+This appeal of a sentence imposed by the United States District Court for the District of Columbia was presented to the Court, and briefed and argued by counsel. The Court has accorded the issues full consideration and has determined that they do not warrant a published opinion. See D.C. Cir. Rule 36(d). For the reasons stated below, it is
+ORDERED AND ADJUDGED that the District Court’s sentence is affirmed.
+Derrick Byas pleaded guilty to one count of conspiracy to distribute a controlled substance in violation of 21 U.S.C. §§ 841(a)(1) and (b)(1)(C) and § 846. The government claimed that Byas was a participant, with his live-in girlfriend Monifa Ahmed and Ahmed’s mother Carolyn Nolan, in a conspiracy to obtain, sell, and/or use prescription drugs by stealing prescription pads from the doctor’s' office where Ahmed and Byas worked, and forging the doctor’s signature to obtain the pills. In addition to the prescriptions and drugs that Byas directly distributed, the District Court attributed to Byas certain of the drugs distributed by Ahmed, and sentenced Byas accordingly. Byas was sentenced to a 54-month prison term, to be followed by 36 months of supervised release.
+Byas makes two arguments challenging his sentence: (1) that the District Court erred by attributing to him the weight of drugs distributed by Ahmed to conspiracy participant Timothy Milloff; and (2) that the District Court erroneously sentenced Byas to a term disproportionately greater than those of his co-defendants. Neither of these claims has merit.
+Byas first argues that the District Court erred when it calculated his sentence based on a drug weight that included the prescriptions or narcotics provided by Ahmed to Milloff. It is undisputed that Byas did not directly distribute prescriptions or narcotics to Milloff, nor did he exchange any money with Milloff. Byas claims that he had no knowledge of the scope of Milloff s involvement in the conspiracy, though he admits that he was present on two occasions when Milloff came to see Ahmed. Byas argues that, had the District Court not included the Milloff prescriptions in the calculation of drugs attributable to him, his Sentencing Guidelines range would have been lower and he could have received a lower sentence.
+In order to determine the amount of distributed drugs attributable to a particular defendant for the purposes of sentencing in drug conspiracy cases, the Guidelines instruct courts to determine the defendant’s “relevant conduct,” which is limited to the “reasonably foreseeable transactions” undertaken in furtherance of the joint criminal activity. United States v. Wyche, 741 F.3d 1284, 1292 (D.C. Cir. 2014); see U.S.S.G. § 1B1.3(a)(1)(B). We grant due deference to the District Court’s determination that a defendant’s acts were reasonably foreseeable relevant conduct for the purposes of sentencing. See United States v. McCants, 554 F.3d 155, 161 (D.C. Cir. 2009). Due deference falls somewhere between de novo and clearly erroneous, and reflects “that the district courts should be afforded some flexibility in applying the guidelines to the facts before them.” United States v. Kim, 23 F.3d 513, 517 (D.C. Cir. 1994); see also Gall v. United States, 552 U.S. 38, 51, 128 S.Ct. 586, 169 L.Ed.2d 445 (2007) (“The fact that the appellate court might reasonably have concluded that a different sentence was appropriate is insufficient to justify reversal of the district court.”).
+The District Court found that the Ahmed-Milloff transactions were reasonably foreseeable to Byas for three reasons. First, Byas was present during at least one of the Ahmed-Milloff transactions; second, Byas himself informed Milloff that Ahmed was under suspicion and could not continue to provide prescriptions; and third, Byas was directly involved with Ahmed in the laundering of the proceeds from the scheme — proceeds that were shared with Byas and his children. These facts are sufficient to permit an inference that Byas had knowledge regarding Ahmed’s distribution of prescriptions to Milloff, and that Byas was involved in the Ahmed-Milloff transactions by deriving financial benefits from that conduct. See Wyche, 741 F.3d at 1292 (“A court may rely on evidence of a defendant’s relationship to and involvement with the conspiracy in order to draw permissible inferences regarding the scope of his agreement to the conspiratorial conduct and the foreseeability of his co-conspirators’ conduct.” (internal quotation marks omitted)). The District Court had “no doubt” that it could “tie Mr. Byas to the money.” J.A. 186. And-based on the additional facts showing that Byas was aware that Ahmed was engaged in transactions with Milloff in support of the scheme, the District Court appropriately inferred “that what Ms. Ahmed was up to was reasonably foreseeable to [Byas].” Id. Giving the District Court due deference in its application of the facts to the law, we find that the District Court did not err in determining that the Ahmed-Milloff transactions were reasonably foreseeable to Byas.
+Byas also argues that the District Court erroneously imposed a greater sentence on him than it did on his co-defendants Ahmed and Nolan. Only Ms. Nolan had been sentenced at the time of Byas’s sentencing; she received a 48-month sentence, followed by a 86-month term of supervised release. The District Court later sentenced Ahmed to a 6-month term for possession of a controlled substance in violation of 21 U.S.C. § 843(a)(3) and § 846, followed by 12 months of supervised release, and an 18-month term for the money laundering conspiracy charge in violation of 18 U.S.C. § 1956(a)(1)(B)© and (h), followed by 24 months of supervised release. Ms. Ahmed’s sentences are to run concurrently. In imposing a sentence, a district court must consider “the need to avoid unwarranted sentence disparities among defendants with similar records who have been found guilty of similar conduct.” 18 U.S.C. § 3553(a)(6). While Byas was guilty of similar conduct as compared to his co-defendants, Byas had multiple prior convictions and a criminal history score of III; neither of his co-defendants had any prior criminal history. Accordingly, it simply cannot be said that there is an “unwarranted sentence disparity] among defendants with similar records.” Id.
+Pursuant to D.C. Circuit Rule 36, this disposition will not be published. The Clerk is directed to withhold issuance of the mandate herein until seven days after resolution of any timely petition for rehearing or rehearing en banc. See Fed. R. App. P. 41(b); D.C. Cir. Rule 41.
