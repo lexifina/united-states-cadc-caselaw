@@ -1,0 +1,49 @@
+---
+court: "United States Court of Appeals for the District of Columbia Circuit"
+docket: "16-5170"
+decided: "2017-02-24"
+citations: ["681 F. App'x 2"]
+judges: ["Before: Henderson, Circuit Judge, and Edwards and Sentelle, Senior Circuit Judges."]
+parties: ["JUDICIAL WATCH, INC., Appellant v. UNITED STATES DEPARTMENT OF STATE, Appellee"]
+source_url: "https://static.case.law/f-appx/681/cases/0002-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12392217
+cites_cases: ["177 F.Supp.3d 450", "5 U.S.C. § 552", "71 F.3d 885", "73 F.3d 386", "730 F.2d 773", "790 F.2d 942", "792 F.2d 146", "907 F.2d 203", "926 F.2d 1197"]
+---
+
+# Judicial Watch, Inc. v. United States Department of State
+
+## Head matter
+
+JUDICIAL WATCH, INC., Appellant v. UNITED STATES DEPARTMENT OF STATE, Appellee
+No. 16-5170
+September Term, 2016
+United States Court of Appeals, District of Columbia Circuit.
+Filed On: February 24, 2017
+Lauren M. Burke, Christopher Alan Fe-deli, Judicial Watch, Inc., Washington, DC, for Plaintiff-Appellant
+Matthew M. Collette, Attorney, Weili Justin Shaw, Attorney, U.S. Department of Justice (DOJ) Civil Division, Appellate Staff, Washington, DC, Benjamin Charles Mizer, Solicitor, U.S. Department of Justice (DOJ) Office of the Assistant Attorney General, Washington, DC, for Defendant-Appellee
+Before: Henderson, Circuit Judge, and Edwards and Sentelle, Senior Circuit Judges.
+
+## Majority (Per Curiam)
+
+JUDGMENT
+Per Curiam
+This case was considered on the record from the United States District Court for the District of Columbia and the briefs and arguments of the parties. The Court has accorded the issues full consideration and has determined that they do not warrant a published opinion. See D.C. Cir. R. 36(d). It is
+ORDERED AND ADJUDGED that the district court’s decision be affirmed for the reasons set forth in the memorandum filed simultaneously herewith.
+Pursuant to Rule 36 of this Court, this disposition will not be published. The Clerk is directed to withhold issuance of the mandate herein until seven days after the disposition of any timely petition for rehearing or petition for rehearing en banc. See Fed R. App. P. 41(b); D.C. Cir. R. 41.
+MEMORANDUM
+Judicial Watch submitted the following Freedom of Information Act (“FOIA”) request to the Department of State on March 6,2015:
+Any and all records that identify the number and names of all current and former officials, officers, or employees of the U.S. Department of State from January 20, 2009 to the present who used email addresses other than their assigned “state.gov” email addresses to conduct official State Department business.
+On May 26, 2015, Judicial Watch filed this action under FOIA. After some negotiation between the parties, State conducted a search through records systems that were “likely to maintain responsive records,” and found “no records responsive to [the] request.... ”
+The parties conducted fruitless discussion. State informed Judicial Watch that it interpreted the request as seeking any records discussing or listing the identity of all State officials who used personal email accounts to conduct official government business. The only alternative reading of the request, State explained, would be “an overly broad and burdensome request which would return any document referencing a non-state.gov address in all existing records at the State Department.” Judicial Watch asserted that it was not asking State to conduct such a search.
+State moved for summary judgment, relying on the declaration of John F. Hack-ett, the Director of the Office of Information Programs and Services for the State Department. Hackett explained that, based on “a natural reading of the[] request,” State reasonably interpreted Judicial Watch’s request as seeking “any and all records that identify the number and names of all current and former officials, officers, or employees of the U.S. Department of State” who used non-state.gov email addresses to conduct official State Department business. Consistent with State’s communications with Judicial Watch, Hackett also stated that
+[a]n interpretation of the request as seeking records identifying the number or names of any current and former officials using an email address other than their assigned “state.gov” address to conduct official business would be overly broad and burdensome. Such a request would require a search of every office and bureau of the Department and nearly every email custodian, and would require the retrieval of any email to or from an employee using a non-state.gov email address for official business during the relevant time period.
+He then set forth the records systems searched and the search terms used.
+The district court granted State’s motion. Judicial Watch, Inc. v. Dep’t of State, 177 F.Supp.3d 450 (D.D.C. 2016). Judicial Watch took the present appeal.
+We review de novo the district court’s grant of summary judgment. Nation Magazine v. U.S. Customs Serv., 71 F.3d 885, 889 (D.C. Cir. 1995). Before addressing the adequacy of the search under FOIA, a court “must first ascertain the scope of the request itself.” Id.-, see also Meeropol v. Meese, 790 F.2d 942, 956 (D.C. Cir. 1986) (stating that the adequacy of the search is “measui-ed by the reasonableness of the effort in light of the specific request”). A requester bears the burden of “reasonably describing]” the records it seeks, 5 U.S.C. § 552(a)(3)(A); Nation Magazine, 71 F.3d at 890, such that “the agency is able to determine precisely what records are being requested,” Kowalczyk v. Dep’t of Justice, 73 F.3d 386, 388 (D.C. Cir. 1996) (citation and internal quotation marks omitted). Although “an agency ... has a duty to construe a FOIA request liberally,” Nation Magazine, 71 F.3d at 890, it is also “bound to read [the request] as drafted,” Miller v. Casey, 730 F.2d 773, 777 (D.C. Cir. 1984). Further, an agency need not respond to overly broad and unreasonably burdensome requests. Am. Fed’n of Gov’t Emps. v. Dep’t of Commerce, 907 F.2d 203, 208-09 (D.C. Cir. 1990); see also Nation Magazine, 71 F.3d at 891-92; Church of Scientology of Cal. v. IRS, 792 F.2d 146, 150-51 (D.C. Cir. 1986).
+The factual question raised by a challenge to the adequacy of an agency’s search is “whether the search was reasonably calculated to discover the requested documents, not whether it actually uncovered every document extant.” SafeCard Servs., Inc. v. SEC, 926 F.2d 1197, 1201 (D.C, Cir. 1991). To be entitled to summary judgment, an agency must show that it made “a good faith effort to conduct a search for the requested records, using methods which can be reasonably expected to produce the information requested.” Nation Magazine, 71 F.3d at 890 (citations and internal quotation marks omitted). An agency may satisfy its burden through reasonably detailed affidavits that “set[ ] forth the search terms and the type of search performed, and aver[] that all files likely to contain responsive materials (if such records exist) were searched.” Id. (citation and internal quotation marks omitted).
+Judicial Watch argues that in responding to its FOIA request, State applied both an “unreasonably narrow” and an “unreasonably broad” interpretation of the request, thus ensuring that State would not locate any responsive records. Because State reasonably interpreted the request and performed an adequate search, we conclude that State satisfied its FOIA obligations.
+State proffered two possible interpretations of the request. First, because Judicial Watch asked for records “identifying] the number and names of all current and former” State employees who used personal email accounts to conduct official business, State reasonably read the request as seeking documents discussing or listing the identities of State officials who used non-state.gov email accounts for official business. Contrary to Judicial Watch’s argument, State did not merely search for a “list” of State officials who used private email accounts. As explained in Hackett’s declaration, State searched seven records systems that were “reasonably likely to contain responsive records” and employed search terms (e.g., “personal email,” “private email,” “non state email”) that were reasonably calculated to discover any records discussing or listing State officials who used private email addresses. In conclusion, because State interpreted the scope of Judicial Watch’s request in a reasonable manner and used appropriate methods in carrying out its search, it was entitled to summary judgment. See Nation Magazine, 71 F.3d at 889-90.
+Second, State could have reasonably read the request as seeking all documents that identify any State officials who used private email accounts to conduct official government business. Responding to such a request would have required State to conduct an extensive review of any and all documents referencing a non-state.gov email address in all existing State Department records. FOIA does not require State to perform such an overly broad and unduly burdensome search. See, e.g., Church of Scientology, 792 F.2d at 151. And, indeed, Judicial Watch conceded that it was not asking State to perform such a search.
+To demonstrate the unreasonableness of State’s interpretation, Judicial Watch must set forth an alternative interpretation of the request that State failed to consider. Tellingly, although it argues that State imposed both an “unreasonably narrow” and an “unreasonably broad” interpretation, Judicial Watch has failed to provide any alternative interpretation of the request. In other words, if Judicial Watch was not seeking some sort of a “list,” on the one hand, or every document referencing a non-state.gov email address, on the other hand, it is difficult to discern what Judicial Watch sought.
+Based on the foregoing, this Court affirms the district court’s grant of summary judgment.
