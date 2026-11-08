@@ -29,3 +29,10 @@ Text is CAP's OCR, unchanged.
 ## What it does not show
 Opinions after the end of CAP's coverage (added from CourtListener where noted), unpublished decisions not in the
 reporters, and statute citations to US Code titles the record does not hold.
+
+## Added from the CAP bulk data (2026-11-08)
+2,433 decisions this repo did not hold, from the Caselaw Access Project's bulk files (F.2d, U.S. App. D.C., F.3d, F. App'x, F. Supp. 3d, F., F. Supp. 2d, F. Supp., Hay. & Haz., F.R.D., B.R., App. D.C. and 7 more): every decision of
+its courts in CAP that was not here by its CAP id, nor as the same case (day and name) read from another reporter. Each
+was appended as its own commit, dated the day decided, after the decisions already here (the history is append-only, so
+they are not in date order; the tools read each decision's own date). Their head matter, the publisher's text, is left
+out. Now 31,609 decisions.
