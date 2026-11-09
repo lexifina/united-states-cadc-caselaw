@@ -21,3 +21,6 @@ python tools/cap_fix_forward.py cadc --today 2026-11-09  # decisions added, file
 `tools/build_state.py` is the fixed builder (text-checked merges, head-matter fallback, counts checked against the
 extraction and plan.json, the append filter on commit day and text). A fresh build with it gives the same decisions
 and files as this repo's main after the fixes, though not the same history (here the fixes are later commits).
+
+## DC Circuit decisions from the District of Columbia repo (2026-11-09)
+The CAP records of the F.3d decisions that CAP names "Court of Appeals of the District of Columbia" (routed to district-of-columbia) that this repo did not hold (no file of the same day sharing a citation or docket with the same text) are rendered by `tools/build_state.py` render() with the court set to the DC Circuit and `cap_court` to CAP's name, and appended in date order, as `tools/cap_fix_forward.py` appends.
